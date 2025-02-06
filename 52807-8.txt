@@ -1,0 +1,4143 @@
+The Project Gutenberg eBook, Tartuffe, by MoliËre, Translated by Otto
+Manninen
+
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions 
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at 
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+
+Title: Tartuffe
+       Viisin‰ytˆksinen huvin‰ytelm‰
+
+
+Author: MoliËre
+
+
+
+Release Date: August 15, 2016  [eBook #52807]
+
+Language: Finnish
+
+Character set encoding: ISO-8859-1
+
+
+***START OF THE PROJECT GUTENBERG EBOOK TARTUFFE***
+
+
+E-text prepared by Tapio Riikonen
+
+
+
+TARTUFFE
+
+Viisin‰ytˆksinen huvin‰ytelm‰
+
+Kirj.
+
+MOLI»RE
+
+Suomentanut Otto Manninen
+
+
+
+
+
+HENKIL÷T:
+
+ ORGON.
+ ROUVA PERNELLE, Orgonin ‰iti.
+ ELMIRE, Orgonin vaimo.
+ DAMIS     |
+ MARIANNE  | Orgonin lapset aikaisemmasta avioliitosta.
+ CL…ANTE, Orgonin lanko.
+ VAL»RE.
+ TARTUFFE.
+ DORINE, Marianen kamarineitsyt.
+ LOYAL, ulosottovirkamies.
+ OIKEUDENPALVELIJA.
+ FLIPOTE, rouva Pernellen palvelijatar.
+
+Tapahtumapaikka Orgonin talo Pariisissa.
+
+
+
+
+ENSIMMƒINEN NƒYT÷S.
+
+
+Ensimm‰inen kohtaus.
+
+    Rouva Pernelle, Elmire, Mariane, ClÈante, Damis, Dorine, Flipote.
+
+ROUVA PERNELLE.
+Flipote, tule, menn‰‰n, ett‰ m‰ heist‰ erkeen.
+
+ELMIRE.
+Te rienn‰tte niin, ett‰ tuskin seurata kerkeen.
+
+ROUVA PERNELLE.
+Ei, mini‰ hyv‰, ei pid‰ en‰‰ tulla,
+mua suotta on kohdella moisella kursaelulla.
+
+ELMIRE.
+Ma teen toki velvollisuuteni teihin n‰hden.
+Mut menette niin kovin ‰kki‰, -- mink‰ t‰hden?
+
+ROUVA PERNELLE.
+Siks, etten voi t‰t‰ menoa n‰hd‰ en‰‰.
+Ei mulle mieliksi t‰‰ll' ole koskaan kukaan.
+Niin, mustan mielen te mulle annatte mukaan,
+min‰ teit‰ neuvon, ja kaikessa tehd‰‰n ten‰‰,
+kaikk' intt‰‰ ja ivaa, suurena suu kuin ovi;
+t‰m‰ totisesti on oikea Hˆlyl‰n hovi.
+
+DORINE. Jos...
+
+ROUVA PERNELLE.
+                Kuulkaas, te olette toimessa kamaripiian,
+v‰h‰n liian suulas ja myˆs v‰h‰n nokkava liian;
+joka paikkaan teid‰n on oltava paras tulkki.
+
+DAMIS.
+Mut...
+
+ROUVA PERNELLE.
+       Poikaseni, sin' olet tyhm‰ nulkki,
+iso‰itis sulle sen sanoo, se mielees paina.
+Sadat kerrat is‰‰s jo varoitin ennakolta,
+sinust' ett' on tulossa t‰ys ep‰kelpo, jolta
+h‰n palkaksi saa vain harmia aina ja aina.
+
+MARIANE.
+Min‰ luulen...
+
+ROUVA PERNELLE.
+                Oh, varjele! Siin‰ on sisko-tuppu,
+niin viaton ja kaino kuin kukan nuppu;
+mut suuret kalat ne kutee tyyness‰ veess‰,
+ja toist' ovat takana tapasi, toista eess‰.
+
+ELMIRE.
+Mut, anoppi...
+
+ROUVA PERNELLE.
+                Mini‰, anteeksi puheeni avoin!
+Tuo k‰ytˆs sopimatonta on kaikin tavoin.
+Esimerkkin‰ hyv‰n‰ teid‰n ois oltava toki,
+niin lasten ‰iti-vainaa ain' olla koki.
+Te olette liian tuhlaava -- puku ja kuosi
+kuin prinsessalla, min‰ en moista suosi.
+Noin hepeneiss' ei tarvis sen heilua, jolla
+vain oman miehens‰ mieliksi on halu olla.
+
+CL…ANTE.
+Mut eikˆh‰n...
+
+ROUVA PERNELLE.
+                Te, h‰nen veljens‰, herra hyv‰,
+kaikk' arvo ja kunnia teille ja kiintymys syv‰,
+mut poikani sijassa, jos min‰ lankonne oisin,
+t‰m‰n viimeisen vierailunne ma olleen soisin.
+Teilt' alituista viisaussaarnaa riitt‰‰,
+jota kelpo ihmisen liioin ei kest‰ kiitt‰‰.
+Puhun hieman suoraan, se, n‰hk‰‰s, on luonto mulla,
+mit' on syd‰mell‰, sen annan ma suusta tulla.
+
+DAMIS.
+Tuo herra Tartuffe, h‰n sent‰‰n on onnen puulla...
+
+ROUVA PERNELLE.
+H‰n on hurskas mies, jota sopii ja tulee kuulla;
+en en‰‰ n‰rk‰stym‰tt‰ olla malta,
+kun h‰n saa moitetta moiselta tolvanalta.
+
+DAMIS.
+Vai siet‰‰ peli‰ pit‰is sen kaksinaaman,
+t‰‰ll' is‰nnˆid‰ vai h‰nen pit‰is saaman,
+meill' ettei pienint‰ huvia olla vois,
+jos tuo hyv‰ herra siihen ei lupaa sois?
+
+DORINE.
+Jos pit‰is uskoa, mit‰ h‰n saarnaa ja haastaa,
+niin kaikk' ois silloin rikosta, synnin saastaa;
+se tuomari maar viat etsii ja tuomita tiet‰‰.
+
+ROUVA PERNELLE.
+Ja mit‰ h‰n tuomitsee, se tuomion siet‰‰.
+H‰n taivaan tielle teit‰ ohjata koittaa.
+H‰nt' osatkaa, kuten poikani, kunnioittaa.
+
+DAMIS.
+Ei, iso‰iti. Ei is‰, ei mik‰‰n muu
+mua inhomasta voi est‰‰ kehnoa moista.
+En puhuis totta silloin, jos puhuisin toista.
+H‰nen vehkeist‰‰n ihan mieleni vimmastuu.
+T‰m‰ ei mene t‰lt‰‰n, ennustan, ett‰ kerran
+viel' isken yhteen kanssa sen k‰rkkyherran.
+
+DORINE.
+On, totta vie, sekin n‰ht‰v‰, onpa vainen,
+ett' ylinn‰ kukkuu mokoma kulkulainen.
+Ei mieronkierroll' ollut jalassa kenk‰‰,
+kun t‰nne saapui, tuskin ryysyj‰ p‰‰ll‰,
+ja nytkˆs osaa olla herrana t‰‰ll‰,
+vain k‰y ja morkkaa ja k‰skee: tulkaa, menk‰‰!
+
+ROUVA PERNELLE.
+Oh, taivas n‰hkˆˆn, paremmin t‰‰ll' ois laita,
+jos sais h‰nen hurskaat neuvonsa kaikkea kaita.
+
+DORINE.
+H‰nen kuvailette te olevan pyhi‰ miehi‰,
+mut uskokaa, h‰n on ulkokullattu liehij‰.
+
+ROUVA PERNELLE.
+Sit‰ suuta!
+
+DORINE.
+            En heihin, en herraan, en heitukkaan,
+min‰ luottais, ennen kuin hyv‰t takuut saan.
+
+ROUVA PERNELLE.
+En tunne palvelijaa, mit‰ lienee maata,
+mut hurskas mies on is‰nt‰, sen voin taata.
+Te kannatte vihaa ja kaunaa, sen kyll‰ arvaan,
+kun totuuden teille h‰n sanoo suoran ja karvaan.
+Syd‰n h‰ll' on kiivas kaikkea synti‰ vastaan
+ja altis taivaan k‰skylle ainoastaan.
+
+DORINE.
+Niin, mutta miks ei h‰n en‰‰ sallisi tulla
+ja k‰yd‰ meill‰ ihmisten vierailulla?
+Talon yst‰v‰t sill‰kˆ nostavat taivaan vihan,
+kun siit‰ h‰n pauhaa kuin pahailma ihan?
+Niin, meid‰n kesken, mik‰h‰n tuo sen tuulen?
+    (Osoittaen Elmire‰.)
+H‰n on mustasukkainen rouvan vuoksi, ma luulen.
+
+ROUVA PERNELLE.
+Oh, vaiti, ja punnitkaa v‰h‰n puheitanne.
+Ei nuhtele yksin h‰n noita vierailujanne:
+tuo h‰ly ja touhu, mi seuraa pitoja niit‰,
+jonot vaunujen, jott' ei portilla tilaa riit‰,
+ja lakeijaparvien laverrus huonon maineen
+jo nostaa, saa joka naapuri puheenaineen.
+Ei pahaan menoon ne lie tosin syyn‰ muuhun,
+mut eduksi ei ole joutua ihmisten suuhun.
+
+CL…ANTE.
+Vaan mill‰ mielitte ihmisten juorut est‰‰?
+Se liian tukalaa olis sent‰‰n kest‰‰,
+jos ei muka en‰‰ joutavan juorun vuoksi
+nyt tohtis tulla yst‰v‰ yst‰v‰n luoksi.
+Ja ent‰p‰ jos kuka suostuisi siihen pakkoon,
+muka sill‰kˆ saisi h‰n kielij‰t juorulakkoon?
+Ei, kaikkialta parjaajan nuoli noutaa.
+Siit' emme huoli, mit' ilke‰t kielet hokee;
+on siin‰ kyllin, ett' oikein el‰‰ kokee,
+ja kielikellot kernaasti juoruta joutaa.
+
+DORINE.
+Me Daphne rouvaa ja myˆs h‰nen pikku miest‰‰n
+kai kiitt‰‰ saamme, meist‰ jos kielt‰ piest‰‰n.
+Ne, jotk' ovat itse enimmin nauretuita,
+ne ensimm‰isin‰ morkkaamassa on muita.
+Jos miss‰ v‰h‰nkin varjoa vainutaan,
+hetikohta silloin kulkuset kuulumaan,
+isoll' ilolla pannaan liikkeelle kaunis juttu,
+niin ovelasti, ett' uskoo outo ja tuttu.
+He muille herjaksi kaikk' omat mustat syyt‰‰,
+oman kunniansa he sill‰ korjata pyyt‰‰,
+kuvitellen, ett‰ kun kaikk' ovat samaa karvaa,
+ei heit‰ muut sen kirjavammiksi arvaa,
+tai ett‰ on toisia, joille he osan lainaa
+sit‰ julkista paheksuntaa, mi heit‰ painaa.
+
+ROUVA PERNELLE.
+Ei muuksi muuttaa voi sit‰ jaarittelunne.
+Ken neiti Oranten hurskautta ei tunne!
+Ei taivasta hetkeksik‰‰n h‰n mielest‰ j‰t‰,
+ja paheksuvan kovin kuuluu menoa t‰t‰.
+
+DORINE.
+Esimerkki verraton, siin‰ on yksi hyv‰!
+H‰n el‰‰ todella julman jumalisesti;
+vaan vast' on vanhuuden lahja se hurskaus syv‰,
+h‰n sive‰ on, mut jotenkin happamesti.
+Niin kauan kuin ihailijoita h‰n saamaan pystyi,
+siit' edustansa h‰n nautti sen mink‰ ehti;
+vaan nyt, kun kukast' on j‰ljell‰ kuiva lehti,
+h‰n maailmaan, kuten h‰neen se, ik‰vystyi,
+ja viisaan neitseen huntuun ja hurskauteen
+loput verhosi kauneutensa kauhtuneen.
+Noin aina ne naikkoset luopuvat kiemailustaan,
+se koskee, kun kavaljeerit karkaa heilt‰,
+ja hylj‰tyill‰ ei lohtuna mieleen mustaan
+ole muu kuin luopua pois muka maailman teilt‰.
+Ja kelpaa kuunnella moista hurskasta naista:
+alas pannaan kaikki, ei armoa mink‰‰nlaista.
+Jok' ainoan el‰m‰ ankaran moitteen saa,
+ei kristityn mieli, vaan kateus kannustaa,
+he huvituksista noista nyt muita soimaa,
+kun itselle en‰‰ ei suo ik‰ niihin voimaa.
+
+ROUVA PERNELLE.
+Kai teist' on mairetta kuulla, mini‰ kulta,
+tuo loru! Ei saa sananvuoroa kukaan muu;
+t‰‰ll' ylinn‰ soi tuon mamselin suulas suu,
+vaan nyt sanan saatte kuulla te myˆskin multa.
+Oli viisain tyˆ, min poikani tehd‰ voi,
+tuon hurskaan miehen t‰nne kun turvaan toi;
+h‰net taivas tykˆnne ohjasi, tarpeen teille
+opas onkin, neuvoja sieluille eksyneille.
+Te kuulkaa h‰nt‰, jos toivotte pelastusta,
+ei sano h‰n mustaksi muuta kuin mik‰ on musta.
+Nuo kaikki seuranne, kutsunne, kuhertelunne --
+pahan hengen paulaa ettekˆ niiss‰ tunne?
+Vai kuuluuko koskaan siell‰ hurskasta sanaa?
+Vain loru ja laulu ja nauru ja nalja ja pila
+ja naapurin parjaus -- sill‰ on parhain tila,
+saa toiset ja molemmat pesunsa per‰kanaa.
+Ne seuran vietot on sit‰ myll‰kk‰‰,
+ett' oikean ihmisen siit' ihan sekoo p‰‰;
+typˆtyhj‰st‰ riitt‰‰ lorua loputtomasti,
+niin muuan oppinut sanoikin sattuvasti:
+se on kuin ilmeinen Paapelin torni ik‰‰n:
+kova paapatus, josta ei ota selkoa mik‰‰n.
+Ja mainitakseni, mist' oli siihen syyn...
+    (Osoittaen ClÈantea.)
+Kas vaan, tuo herra turvaa jo virnistelyyn!
+Oh, naurakaa vain omia narrejanne!
+    (Elmirelle.)
+Niin, hyv‰sti, mini‰! En sano enemp‰‰.
+Ei toiste k‰ym‰‰n yllyt‰ k‰ynti t‰‰,
+enk' ensi hopussa t‰nne jalkaani panne.
+    (Antaa Flipotelle korvapuustin.)
+Hoi, senkin ‰lliˆ, hereille tollistelulta!
+Min‰, surma olkoon, kuumennan korvat sulta!
+Mars matkaan, l‰‰pp‰!
+
+
+Toinen kohtaus.
+
+    ClÈante, Dorine.
+
+CL…ANTE.
+                      En uskalla mukaan menn‰,
+ei takeita, ettei taaskin kimppuuni lenn‰
+tuo kelpo mummo!
+
+DORINE.
+                 Oh, vahinko vallan suuri,
+ettei ole kuulemassa h‰n tuota juuri,
+h‰n k‰skis teid‰n tiet‰‰, mik‰ on mik‰,
+ja mummotella niit‰, joill' on se ik‰.
+
+CL…ANTE.
+Niin turhast' en tulistuvaksi ois luulla voinut,
+ja onpas tuo Tartuffe h‰net haltioinut!
+
+DORINE.
+Oh, pojalleen h‰n ei ved‰ lainkaan vertaa.
+H‰net n‰hk‰‰, niin sanotte: villimpi viitt‰ kertaa!
+Niin toimen mies, kun mellakat maata raasti,
+niin ruhtinastaan palveli urhokkaasti;
+mut on kuin p‰‰st‰ pehme‰ siit‰ saakka,
+kuin hullitsi h‰net Tartuffe, tuo talomme taakka.
+Nyt hokee veljekseen sit‰ tulokasta,
+niin hellii kuin kuunaan ei ‰iti‰, vaimoa, lasta.
+Ei silt‰ uskotultaan h‰n mit‰‰n salaa,
+h‰n kaikki tekee vain h‰nen neuvonsa mukaan,
+h‰n myˆt‰‰n h‰nt‰ suukostelee ja halaa,
+ei omalle kullalleen ois hellempi kukaan.
+Vie ensimm‰isen‰ pˆyt‰‰n, ilolla katsoin,
+kun toinen ruokaa ruhtoo kuin kuusin vatsoin;
+palat parhaat h‰lle kaikesta pist‰‰ ja kastaa,
+joka rˆyht‰isyyn "Jumal' avuksi!" aina h‰n vastaa.
+H‰nt' ihantelee ihan hassuna, silmin sokein,
+pyh‰n sankarinsa puheita aina hokein,
+sen joka temppua ihmetyˆksi h‰n luulee,
+joka sanassa suuria ilmestyksi‰ kuulee.
+Ja toinen, hˆlmˆns‰ tuntien, tiet‰‰ kyll‰
+h‰net h‰mment‰‰ jos mill‰kin h‰ik‰isyll‰.
+H‰n hoitaa s‰kkins‰ t‰yteen hurskaalla suulla,
+ja nuhteita h‰lt‰ saamme me kaikki kuulla,
+ja kimppuun, samoja saarnoja t‰ynn‰ suu,
+h‰nen passari-tolvanansakin tuppautuu.
+H‰n meille silm‰t pystyss‰ saarnaa ja pauhaa,
+luo tuleen, min tapaa korua, pitsi‰, nauhaa.
+Nen‰liinan kun taannoin rukouskirjasta keksi
+se kelmi, h‰n sieppasi sen, heti rikki raastain,
+ja selitti meille synniksi hirmuiseksi
+Pyh‰t aarteet sotkea noin kera saatanan saastain.
+
+
+Kolmas kohtaus.
+
+    ELMIRE, MARIANE, DAMIS, CL…ANTE, DORINE.
+
+ELMIRE (ClÈantelle).
+Te miekkonen, joka s‰‰styitte kuulemasta
+sit‰ porttisaarnaa, se oli jotain vasta!
+N‰in mieheni tulleen, mutta en tavannut viel‰.
+Menen huoneeseeni ja odotan h‰nt‰ siell‰.
+
+CL…ANTE.
+J‰‰n t‰nne vartomaan min‰ kiireen t‰hden,
+sanon hyv‰‰ huomenta vain ja sitten l‰hden.
+
+
+Nelj‰s kohtaus.
+
+    ClÈante, Damis, Dorine.
+
+DAMIS.
+V‰h‰n ettekˆ puhuis samalla siskoni h‰ist‰?
+Tartuffe on v‰liss‰ kai salavehkeilyll‰,
+niit' ei is‰ muuten niin yh‰ siirr‰ ja v‰ist‰.
+Miten l‰helt‰ mua se koskee, tied‰tte kyll‰;
+Ei sisartani voi lempi‰ tulisemmin
+ValËre, kuin h‰nen sisartaan min‰ lemmin,
+ja jos...
+
+DORINE.
+          H‰n tulee.
+
+
+Viides kohtaus.
+
+    Orgon, ClÈante, Dorine.
+
+ORGON.
+                Hyv‰‰ huomenta, lanko!
+
+CL…ANTE.
+Olin l‰hdˆss‰; iloitsen terveen‰ palaamasta.
+Kev‰t siell‰ maalla kai oli alulla vasta.
+
+ORGON.
+Dorine...
+    (ClÈantelle.)
+          Rakas lankoni, pahaksi ‰lk‰‰ panko,
+jos huolesta p‰‰st‰kseni, kun matkalta palaan,
+kotikuulumiset ma ensiksi kuulla halaan.
+    (Dorinelle.)
+Miten n‰in‰ kahtena p‰iv‰n‰ t‰‰ll‰ on voitu?
+Hyvin onko kaikki? Mit‰ on askaroitu?
+
+DORINE.
+Koko toisen p‰iv‰‰ rouvalla, iltaan asti,
+oli kuume ja p‰‰nkipu ahdisti ankarasti.
+
+ORGON.
+Ent‰ Tartuffe?
+
+DORINE.
+               Jalo, kiitos, on h‰ll‰ jaksu:
+h‰n on punaposkinen, pullea, pulska ja paksu.
+
+ORGON.
+Mies parka!
+
+DORINE.
+            Rouva ei illallist' atrioinut,
+ei ruoan palaa suuhunsa ottaa voinut,
+p‰‰nkivusta k‰rsi niin, yh‰ kiihtyneest‰.
+
+ORGON.
+Ent‰ Tartuffe?
+
+DORINE.
+               Sˆi yksin, rouvankin eest‰;
+pari peltopyyt‰ h‰n hurskaasti poskeen pisti,
+ja puoli lampaanreitt‰, ja k‰tens‰ risti.
+
+ORGON.
+Mies parka!
+
+DORINE.
+            Uneen ummistumatta luomen
+sai rouva hereill‰ olla, mink' yˆt‰ kesti;
+h‰net kuumeen puuskat nukahtamasta esti;
+piti ‰‰ress‰ valvoa, kunnes valkeni huomen.
+
+ORGON.
+Ent‰ Tartuffe?
+
+DORINE.
+               Uni maanitti makeasti,
+meni pˆyd‰st‰ kamariinsa h‰n kapperasti,
+ja alle peiton l‰mpˆisen pˆtk‰hti heti,
+ja rauhass' aamuun asti siin' unta veti.
+
+ORGON.
+Mies parka!
+
+DORINE.
+            Vihdoin rouva, neuvoomme luottain,
+jo suostui ja antoi l‰‰k‰rin iske‰ suonta;
+se auttoi, helpotusta koht' ik‰‰n tuottain.
+
+ORGON.
+Ent‰ Tartuffe?
+
+DORINE.
+               Kuin sankari haarniskoitui
+joka tuskaa torjumaan, joka h‰ijyn juonta,
+ja verenhukan sijaan, mi rouvalle koitui,
+joi aamiaiseksi viini‰ tuopin verran.
+
+ORGON.
+Mies parka!
+
+DORINE.
+Nyt kumpaisenkin on vointi hyv‰;
+ja rouvalle virkkaa saan, mik‰ riemu syv‰
+h‰nen toipumisestaan liikutti mielt‰ herran.
+
+
+Kuudes kohtaus.
+
+    Orgon, ClÈante.
+
+CL…ANTE.
+P‰in naamaa, lanko, teit‰ h‰n nauraa ihan,
+ja ‰lkˆˆn virikkeen‰ se olko vihan,
+jos suoraan sanon: se aivan on ansion mukaan.
+Moist' onko p‰‰h‰npistoa kuullut kukaan?
+Noin kuinka voi mies mokoma vieh‰tt‰‰,
+ett' unhoon kaikki muu h‰nen t‰htens‰ j‰‰,
+ett' ensin saa tuo kulkuri suojelunne,
+ja nyt ihan olette...?
+
+ORGON.
+                       Seis, hyv‰ lanko, seis!
+Te puhutte miehest‰, jota te ette tunne.
+
+CL…ANTE.
+No ehk‰p‰ en; lis‰tieto ei vikaan veis.
+Mut kyll‰ jo n‰hd‰ voi, mit‰ mies on maata.
+
+ORGON.
+H‰net tuntisittepa, lanko, ois ilonne suuri,
+siit' ihastuksenne ei vois ikin‰ laata.
+H‰n on mies, joka... niin, h‰n on mies... ah!... mies... niin juuri.
+Ken kuulee h‰nt‰, sen sieluss' on rauha syv‰,
+vain savua sille on kaikki maallinen hyv‰.
+H‰nen neuvomanaan olen kuin uus ihminen ik‰‰n,
+on sieluni vapaa, ei kiedo kiintymys mik‰‰n;
+kaikk' auttoi kirvoittamaan h‰n suhteet ja siteet;
+veli, lapsi, ‰iti, vaimo jos multa kuolis,
+tuon vertaa en totisesti ma siit‰ huolis.
+
+CL…ANTE.
+Oh, siin‰p‰ inhimilliset mielipiteet!
+
+ORGON.
+Josp' oisitte n‰hnyt tuttavuutemme alun,
+tekin saanut oisitte kai saman hartaan halun.
+Joka p‰iv‰ kirkossa lankesi polvilleen
+mua vastap‰‰t‰ h‰n, vaipuen hartauteen.
+Niin palavasti h‰n rukoili, ett‰ se johti
+koko seurakunnan huomion h‰nt‰ kohti,
+lˆi rintoihinsa, huokasi, kyynelehti,
+ja lattian paatta suuteli, mink‰ ehti;
+ja pois kun l‰ksin, h‰n ovelle riensi, ett‰
+siin' ojentaa vois mulle h‰n pyh‰‰ vett‰.
+Sain palvelijalta, jok' el‰‰ herransa lailla,
+ma kuulla, kuka h‰n on, miten varoja vailla,
+ja annoin rahaa h‰lle; mut siit‰ ois
+osan aina h‰n, v‰h‰‰n tyytyen, torjunut pois.
+"Se on ihan liikaa", sanoi h‰n, "puolet riitt‰‰.
+Avust' ansaitsemattomasta mun suokaa kiitt‰‰."
+Ja kun en ota takaisin, kun on kieltoni vakaa,
+h‰n menee ja silm‰ini eess‰ ne kˆyhille jakaa.
+Minut taivas johdatti niin h‰net talooni tuomaan,
+ja menestyv‰n siit' asti sen selv‰‰n huomaan.
+Viat kaikki h‰n korjaa, niin, jopa vaimooni n‰hden
+ylen huolehtivainen on, hyv‰n maineemme t‰hden,
+heti varoittaa, jos ihastelee muut herrat,
+mua mustasukkaisempi on viidet verrat.
+Mut ette uskois sit' intoa, hyveen voimaa!
+Ihan v‰himm‰st‰kin h‰nt' omatunto soimaa,
+joka rahtu masentaa h‰net maahan asti;
+sit‰ pahaa katui taannoinkin katkerasti,
+kun rukoillessaan nappasi kirpun hihasta,
+eik' ollut tappaissaan sit‰ vapaa vihasta.
+
+CL…ANTE.
+Jo todentotta on j‰rkenne saanut potkun.
+Vai teettekˆ lorulla tuolla minusta pilaa?
+Mik‰ oikein on tarkoituksena moisen sotkun?
+
+ORGON.
+Hyv‰ lanko, tuo kuuluu kielt‰j‰n ivailulta;
+paha kyll‰, se henki teiss‰ on saanut tilaa.
+Mont' olette varoitusta jo kuullut multa,
+voi siit‰ tulla teille viel' ik‰v‰ juttu.
+
+CL…ANTE.
+Tuo teid‰n kaltaistenne on virsi tuttu;
+ois kaikkein oltava sokeita samalla lailla,
+olet kielt‰j‰ kohta, jos et ole silmi‰ vailla;
+ja jollet tunnusta jos mit‰ hurskailijoita,
+et mit‰‰n pyh‰‰ usko, et kunnioita.
+Suott' ennustelette, mulle ei vaara k‰kee,
+min‰ puheeni tied‰n, ja taivas mieleni n‰kee.
+Noit' ilveilijˆit‰nne en min‰ liioin suosi,
+tekohurskailla kuin tekouljaill' on yksi kuosi:
+kuten ei tosiuljaita, joita kunnia johtaa,
+suursuiden kerskailijoiden joukossa kohtaa,
+tosihurskaskaan, johon tulee katseensa k‰‰nt‰‰,
+ei ole, ken huitoo ja hurskaaksi naamaa v‰‰nt‰‰.
+Siin' ettekˆ mit‰‰n eroa huomata saata:
+tekopyhyys ja hurskaus, onko ne samaa maata?
+Saman todistuksenko aiotte niist‰ tuoda,
+saman arvon naamiolle kuin kasvoille suoda,
+ja teeskelyn ja suoruuden panna rinnan,
+n‰ˆn todeksi uskoa, ytimeks ulkopinnan,
+sen ihmiseksi, mi varjo on ainoastaan,
+ja vaihtaa rahan oikean v‰‰r‰‰ vastaan?
+On eninten ihmisten hiukan kummasti laita,
+on m‰‰r‰ ja kohtuus heille outoja maita.
+Ei riit‰ j‰rjen piiriss‰ kyllin tilaa,
+joka askeleella he astuu yli sen rajain,
+ja asian parhaankin moni usein pilaa
+sit‰ liioitellen ja suunnattomiin sen ajain.
+N‰en, ett' on paikallaan t‰m‰ pikku lis‰.
+
+ORGON.
+Niin, ylimm‰inen te olette oppi-is‰;
+teill' on koko maailman tieto kukkurap‰inen,
+te yksin olette viisas ja ymm‰rt‰v‰inen,
+t‰m‰n ajan oraakkeli, Cato, ja paitsi teit‰
+muu ihmiskunta on pelkki‰ tyhmyreit‰.
+
+CL…ANTE.
+En kyll' ole oppi-is‰ m‰ ylimm‰inen,
+ja maailman tieto ei mull' ole kukkurap‰inen,
+mut t‰ll‰ tiedollani se mull' on selko,
+ett' erotan suorasta v‰‰r‰n, se vaisto ja tunto.
+Ja niinkuin minust' ei mik‰‰n sankarikunto
+ole korkeampi kuin tosi jumalanpelko,
+ei mik‰‰n maailmassa niin kaunis ja jalo
+kuin oikean hurskauden pyh‰ hehku ja palo,
+niin mik‰‰n ei tunnu enemm‰n inhotulta
+kuin teeskennellyn hurskauden ulkokulta,
+tuo uskon toitotus, julkea silm‰nk‰‰ntˆ,
+tuo petturein pyh‰npilkkainen naamanv‰‰ntˆ,
+joka rankaisematta pit‰‰ peli‰ sill‰,
+mit‰ ylint‰ on ja pyhint‰ ihmisill‰,
+nuo hartaat, joilla on mieless‰ voitonhalu
+ja jumalisuus vain ammatti, kaupankalu,
+jotk' arvoja saadakseen sek‰ luottoa muilta
+k‰y hurskain elein ja n‰ytt‰en hurmatuilta,
+nuo hartaat, sanon ma, jotka niin intomieli‰
+oman etunsa per‰‰n juoksevat taivaan tiell‰,
+nuo, joiden on rukous keinoa, kerj‰‰mist‰
+ja maailmankielt‰mys hovissa k‰rkkymist‰;
+pyhin intoinensa he helliv‰t himoja lihan,
+ovat luihut ja viekkaat, hautojat koston ja vihan,
+ja tuhoksi muille he julkeat juonensa k‰‰rii
+vanhurskauden vaippaan ja taivaan nimess‰ h‰‰rii,
+sit‰ vaarallisempina, kun he iske‰ koittaa
+juur' aseilla, joita jokainen kunnioittaa,
+kun kiihko, josta he viel‰ kiitosta saavat,
+lyˆ vihityll‰ veitsell‰ murhahaavat.
+Tekopyhi‰ noita on montakin n‰hd‰ saatu,
+mut helppo tuntea hurskas on mielenlaatu;
+ja aika t‰‰kin kyll' esimerkkej‰ tarjoo,
+joit' ihailla tulee, joita ei vilppi varjoo.
+Mit‰ todistaa Ariston ja mit‰ Clitandre,
+Oronte ja Alcidamas, Polydore, Periandre?
+Ei kenk‰‰n kiell‰, ett' on elo hurskas heill‰,
+vaan hurskauttaan ei huuda he turuilla, teill‰,
+ei t‰yt‰ ylpeys silmitˆn heit' yli partaan,
+on hyvyys ja lempeys s‰vyn‰ mielen hartaan;
+ain' eiv‰t moiti, kuink' el‰‰ ja tekee toiset,
+omahyv‰isyytt‰ heist' ovat moitteet moiset,
+vaan j‰tt‰en saarnailut sanasankareille
+ovat el‰m‰ll‰‰n ojennukseksi meille;
+heti eiv‰t tuomitse luuloista, huhuiluista,
+ja ennen hyv‰‰ kuin pahaa uskovat muista;
+vale heille on vieras ja vilppi ja mieli v‰‰r‰,
+vain oikein el‰‰ ainoa silm‰m‰‰r‰;
+ei koskaan vihaa syyd‰ he syntist‰ vastaan,
+he itse synti‰ vihaavat ainoastaan,
+eik' enemm‰n puuhaa ja paahaa taivaan takia
+kuin saa, jos noudattaa sen sanaa ja lakia.
+Kas sellaisiin min‰ katselen ihailulla,
+he ansaitsevat esikuviksi todella tulla.
+On toista maata, ma sanon, tuo yst‰v‰nne,
+kovin herk‰sti uskoen hurskaaks ylist‰m‰nne;
+tekopyhimys teit‰ on peijannut ovelasti.
+
+ORGON.
+Rakas lanko, joko te p‰‰sitte p‰‰h‰n asti?
+
+CL…ANTE.
+Jo.
+
+ORGON.
+    Nˆyrin palvelijanne!
+
+CL…ANTE.
+                         Vain sana yksi!
+T‰m‰ kiista sikseen. ValËren aiotte kai
+v‰vyks ottaa; h‰nh‰n jo sananne siit‰ sai?
+
+
+ORGON.
+Niin.
+
+CL…ANTE.
+      Kuulin jo h‰‰p‰iv‰nkin p‰‰tetyksi.
+
+ORGON.
+Se on totta.
+
+CL…ANTE.
+             Miks sitten viivytt‰‰ sit‰ viel‰?
+
+ORGON.
+En tied‰.
+
+CL…ANTE.
+          Vai ehk‰ toiset tuumat on tiell‰?
+
+ORGON.
+Kenties.
+
+CL…ANTE.
+         Mut etteh‰n sanaanne aio syˆd‰?
+
+ORGON.
+Sit‰ en ole sanonut.
+
+CL…ANTE.
+                     Teille ei esteet mitk‰‰n
+pane pakkoa lupaustanne laimin lyˆd‰.
+
+ORGON.
+Saa n‰hd‰.
+
+CL…ANTE.
+           Siin‰p‰ kierrell‰ kest‰‰ pitk‰‰n!
+ValËren puolesta tietoa selv‰‰ anon.
+
+ORGON.
+Niin, taivaan kiitos!
+
+CL…ANTE.
+                      Vaan mit‰ h‰lle ma sanon?
+
+ORGON.
+Mit‰ mielitte vain.
+
+CL…ANTE.
+                    Min‰ teid‰n mielt‰nne kysyn.
+Miten teette? Se tieto on tarpeen.
+
+ORGON.
+                                   Ma siin‰ pysyn,
+mit‰ taivas tahtoo.
+
+CL…ANTE.
+                    Mut ‰lk‰‰mme kimmurrelko.
+Luja onko vai ei sana annettu? Suokaa selko.
+
+ORGON.
+Hyv‰sti!
+
+CL…ANTE (yksin).
+         Vaara nyt nuorten liitolla kai on,
+ja varoittaa ValËrea siit‰ ma aion.
+
+
+
+
+TOINEN NƒYT÷S.
+
+
+Ensimm‰inen kohtaus.
+
+    Orgon, Mariane.
+
+ORGON.
+Mariane!
+
+MARIANE.
+         Is‰!
+
+ORGON.
+              Tulehan, ett‰ m‰ kanssas saan
+v‰h‰n puhella kahden.
+
+MARIANE (Orgonille, joka kurkistaa er‰‰seen sivuhuoneeseen).
+                      Mit' etsitte?
+
+ORGON.
+                                    Katson vaan,
+ett' urkkimass' ei meit' ole kuulija mik‰‰n;
+t‰m‰ pikku kolkka on siihen kuin tehty ik‰‰n.
+Kas niin, hyv' on. Mariane, iloll' is‰si ain' on
+sun alttiin luontos n‰hnyt, sun mieles kainon,
+ja rakkautt' aina sa myˆs olet saanut multa.
+
+MARIANE.
+Niin kiitollinen min‰ siit' olen, is‰ kulta.
+
+ORGON.
+Hyvin sanottu, lapsi, ja niin sinun tulee koittaa
+mun mielt‰ni noudattain sit‰ vastakin voittaa.
+
+MARIANE.
+Se on korkein toivoni, ainoa, mit‰ m‰ anon.
+
+ORGON.
+Hyv‰! Kuule, mik' on Tartuffest‰ mieli sulla?
+
+MARIANE.
+Mit‰? Mullako?
+
+ORGON.
+               Niin, puhu mielell‰ punnitulla.
+
+MARIANE.
+Voi, niinkuin tahdotte vaan, niin kai min‰ sanon.
+
+
+Toinen kohtaus.
+
+    Orgon, Mariane, Dorine (tulee hiljaa ja asettuu
+    Orgonin taakse toisten huomaamatta).
+
+ORGON.
+Puhut j‰rkev‰sti... No niin, sano siis, ett' on
+h‰ll' aateluus avun kaiken ja ansion,
+ett' on h‰n mieleen sulle, ett' onnesi ois,
+h‰net jos is‰s sulle mieheksi valikois.
+No..?
+
+MARIANE (vet‰ytyy s‰ps‰ht‰en taap‰in).
+      Oh!
+
+ORGON.
+          Mit‰?
+
+
+MARIANE.
+                Kuinka?
+
+ORGON.
+                        H‰h?
+
+MARIANE.
+                             Kai minut petti kuulo?
+
+ORGON.
+Miten niin?
+
+MARIANE.
+            Ken pit‰is mun...? Kenest' on teill‰ se luulo?
+Ken mulle on mieleen, ja ken muka onneni ois,
+h‰net jos is‰ mulle mieheksi valikois?
+
+ORGON.
+Tartuffe.
+
+MARIANE.
+          Ei, ei, min‰ vannon, se ei ole niin.
+Mua miksi moisiin vaaditte valheisiin?
+
+ORGON.
+Vaan min‰ sen tahdon, ja myˆs tosi tuleva siit' on.
+Olen p‰‰tt‰nyt niin, ja sulle se p‰‰tˆs riitt‰‰.
+
+MARIANE.
+Mit‰, is‰, te tahdotte...?
+
+ORGON.
+                           Siteill‰ avioliiton
+Tartuffen perheeseeni ma tahdon liitt‰‰.
+H‰n on tuleva miehes, se p‰‰tˆs ei siit‰‰n muutu.
+Ja myˆs oma mielesi...
+    (Huomaa Dorinen.)
+                       Mit‰ te teette t‰‰ll‰?
+Hyv‰ mamseli, olette uteliaalla p‰‰ll‰,
+te valvotte, ettei kuuntelijoita puutu.
+
+DORINE.
+Niin, totta maar, se jo juoruna on kuin onkin.
+Lie arvanneet sen, tai vihin saaneet jonkin.
+Vaan kun min‰ kuulin naimatuumista noista,
+niin nauroin, ett' uskotaanpa jos jonkinmoista.
+
+ORGON.
+Vai on se mahdoton uskoa?
+
+DORINE.
+                          Onpa vaankin.
+On, vaikka uskotelkaa sit' omalla suulla.
+
+ORGON.
+On mulla keino, jotta viel' uskotaankin.
+
+DORINE.
+No kyll‰p‰ teilt‰ saa somat kaskut kuulla.
+
+ORGON.
+Koht' ik‰‰n saatte katsoa, onko se kasku.
+
+DORINE.
+Hui hai!
+
+ORGON.
+         Niin, lapsi, on kaukana leikinlasku.
+
+DORINE.
+H‰nt' ‰lk‰‰ uskoko, ei ole siin‰ per‰‰.
+H‰n narraa.
+
+ORGON.
+            Kuulkaa, te...!
+
+DORINE.
+                            Vikurteluista viis,
+ei uskota teit‰.
+
+ORGON.
+                 Jo viimein vihani her‰‰.
+
+DORINE.
+No niin, sen pahempi teille, me uskomme siis.
+Tekˆ, herra, jolla on muoto niin viisas ja vakaa,
+joka haastatte moisen muhkean parran takaa,
+tekˆ olisitte niin hupsu, te...?
+
+ORGON.
+                                 Kuulkaas v‰h‰n:
+te tuppaudutte t‰‰ll‰ tuohon ja t‰h‰n.
+Min‰ vapauksia noita en lainkaan kiit‰.
+
+DORINE.
+Mut puhelkaamme nyt kiihottumatta siit‰.
+Teilt' ihmistunto ei kai ihan tuuleen menne?
+Ei huostaan hurskailijain sovi tytt‰renne;
+heill' aattelemista on kai toki aivan toista.
+Ja miksi te oikein puuhaatte liittoa moista?
+Te, varakas mies! Ja menn‰ ja kerj‰l‰inen
+v‰vyks ottaa!
+
+ORGON.
+              Vait! Jos on kˆyh‰ h‰n kukkarolta,
+sit‰ rikkaamp' on tosi arvolta, ansiolta.
+Se kˆyhyys, se h‰lle on kunnia kukkurap‰inen,
+on jalompi loistoa maallisten mahtajain;
+h‰n omaisuutensa menetti siksi vain,
+ett' ajallisist' ei antautunut h‰n huoleen,
+vaan k‰‰nsi kaiken halunsa taivaan puoleen.
+Mut ahdingosta ma nyt h‰net autan j‰lleen
+ja palaamaan taas tilalle perim‰lleen.
+Sukukartano kuulu h‰ll‰ on ollut kerta,
+ja itse h‰n, vaikka nyt kˆyh‰, on aatelisverta.
+
+DORINE.
+Niin kai, niin itse h‰n sanoo; mut turhuus tuopa
+on toista kuin jumalisuus, on v‰lill‰ juopa.
+Sen, jolla on pyrkimyksen‰ el‰m‰ pyh‰,
+ei nimi ja suku suur' ole suussa yh‰;
+eik' yhteen soinnu kristityn nˆyr‰ mieli
+ja moinen kunnianpyynti ja kerskukieli.
+Paras rehenteleekin! Mutta te pahastutte;
+siis sin‰‰n se aateli, vaan mit‰ otaksutte
+h‰nest' itsest‰‰n? Ihan tyynn‰kˆ vaan noin tuostaan
+tytˆn moisen uskotte tuollaisen miehen huostaan?
+Ois syy v‰h‰n mietti‰, mik‰ on soveliasta,
+ja mik‰ on seuraus liitosta mokomasta.
+Se leikkimist‰ on neitosen kunnialla,
+jos noin h‰net naitetaan pakon, uhkan alla;
+ja tuleeko naisesta puoliso nuhteeton,
+on siin‰, ken mieheks suodaan ja mink‰moinen;
+ja monikin, jolla on otsassa sarvi ja toinen,
+on syyp‰‰ itse, jos vaimo on se, mik‰ on.
+Ei uskollinen ole helppo olla sen naisen,
+joka herrakseen saa miehen muutamanlaisen;
+ja tytt‰rens‰ jos pakolla naittaa, niin vastuu
+is‰n p‰‰h‰n lankee, jos tyt‰r harhaan astuu.
+V‰h‰n miettik‰‰, mik‰ kosto tuumaanne kohtaa.
+
+ORGON.
+Te vai mua neuvotte siis, miten lastani johtaa!
+
+DORINE.
+Ois niit‰ neuvoja vain paras teid‰n noutaa.
+
+ORGON.
+Sit‰ lorua, lapseni, kuunnelkoon, joka joutaa.
+Oma is‰si sun etus parhaiten katsoo kai.
+ValËre sua multa pyysi ja sanani sai;
+mut h‰ll‰ on, sanovat, pelaajan taipumusta,
+sit‰paitsi ep‰ilen vapaa-ajattelusta.
+En muista kirkossa koskaan n‰hneeni viel‰.
+
+DORINE.
+Ja silloinko juuri, kuin te, piti olla siell‰,
+kuten nuo, jotk' itsens‰ sinne vain n‰ytteille vie?
+
+ORGON.
+Hyvin tarpeen tiet‰‰ teid‰n mielenne lie!
+Niin, vaan tuo toinen taivaan on valituita,
+se aarre arvokkaampi on kaikkia muita.
+Mit‰ ikin‰ halaat, se avioliitto tarjoo,
+se iloa, suloa tiukkuu, sit' armo varjoo.
+Siin' el‰tte kahden hurskaassa lemmess‰nne
+kuin lapset, kuin turturikyyhkyt te kesken‰nne;
+ei milloinkaan riko riita sen kirkasta rauhaa,
+ja h‰n sun mielt‰s noutaa kuin karitsa nauhaa.
+
+DORINE.
+Niin, narrin nauhoissa h‰n h‰net viel‰ k‰ytt‰‰.
+
+ORGON.
+Mit‰ julkenette!
+
+DORINE.
+                 Niin, silt‰ se ylk‰ n‰ytt‰‰.
+Ei auta moisen vaikutusvaltaa vastaan,
+vaikk' on miten arka lapsenne kunniastaan.
+
+ORGON.
+Nyt vaietkaa, mua ‰lk‰‰ h‰iritkˆ en‰‰,
+ja minne ei tarvita, ‰lk‰‰ pist‰kˆ nen‰‰.
+
+DORINE (keskeytt‰en h‰net aina, kun h‰n k‰‰ntyy puhumaan tytt‰relleen).
+Min‰ en ole muuta kuin pit‰nyt herrani puolta.
+
+ORGON.
+Hyv' olkaa ja laatkaa; se aivan on liikaa huolta.
+
+DORINE.
+Jos teist‰ ei pidett‰is...
+
+ORGON.
+                           Minust' ei saa pit‰‰.
+
+DORINE
+Pid‰n sittenkin, sille ei kieltonne mahda mit‰‰n.
+
+ORGON.
+Uh!
+
+DORINE.
+    Maineenne mulle on kallis, ja siks en anna
+sit‰ kaikkien naurulle teid‰n alttiiksi panna.
+
+ORGON.
+Te ette vaikene!
+
+DORINE.
+                 Ei voi tuntoni myˆnt‰‰,
+ett' antaisin teid‰n lapsenne turmaan tyˆnt‰‰.
+
+ORGON.
+Vait, k‰‰rme, eikˆ sult' ikin‰ sulkeu suu...?
+
+DORINE.
+Oh, jumalinenko noin kovin julmistuu?
+
+ORGON.
+Niin, sappeni kuohuu, kun kuulen lorua moista;
+ja nyt suu poikki, ‰l' odota sanaa toista!
+
+DORINE.
+Sama se, mut on aatella silti mun vapaa valta.
+
+ORGON.
+Saat aatella kernaasti, vaan kitas pit‰‰ malta,
+tai muuten ma... Riitt‰‰...
+    (Marianelle.)
+                            Kaikk' olen viisaan lailla
+jo punninnut.
+
+DORINE (itsekseen).
+              T‰m‰ kiusa, kun ei pid‰ saaman
+nyt puhua!
+
+ORGON.
+           Vaikka teikarin muotoa vailla,
+Tartuffe on mies...
+
+DORINE.
+                     Ah herttaisuutta sen naaman!
+
+ORGON.
+Johon ilman mieltymyst‰kin varmaan vaalis
+jo sattuis, kaikki kun muut avut...
+
+DORINE (itsekseen).
+                                    Onpa saalis!
+
+    (Orgon k‰‰ntyy Dorineen p‰in, kuuntelee k‰sivarret
+    ristiss‰ ja katsoo h‰nt‰ silmiin.)
+
+Min‰ neitin‰ kostamatta en vaan sit‰ siet‰is,
+jos miehel‰‰n minut vasten mielt‰ni viet‰is;
+ja oppia sais se mies pian aika lailla,
+ettei ole siihen vaimo valttia vailla.
+
+ORGON.
+Ihan turhaks siis min‰ kieltoni huomaan j‰‰neen.
+
+DORINE.
+Min‰ en puhu teille, suututte suotta syytt‰.
+
+ORGON.
+Mit‰ se oli sitten?
+
+DORINE.
+                    Min‰ vain aattelin ‰‰neen.
+
+ORGON (syrj‰‰n).
+Hyv‰! Enp' ole viel‰ moista h‰vyttˆmyytt‰...
+Se sivalluksen k‰mmenest‰ni siet‰‰.
+
+    (H‰n asettautuu valmiiksi antamaan korvapuustin Dorinelle
+    ja vilkaisee h‰neen joka sanalta, mink‰ h‰n puhuu tytt‰relleen,
+    Dorinen seisoessa suorana ja ‰‰nettˆm‰n‰.)
+
+Sun tulee noutaa siis is‰s mielt‰... ja tiet‰‰...
+ett' aviomies... jok' on katsottu sulle...
+    (Dorinelle.)
+                                           No,
+viel' ‰‰neen aatellaanko?
+
+DORINE.
+                          On aateltu jo.
+
+ORGON.
+Sana pikkuinen viel‰!
+
+DORINE.
+                      Ei tee mieleni erin.
+
+ORGON.
+Kas niin, min‰ odotan.
+
+DORINE.
+                       Oisinpa tyhm‰ perin!
+
+ORGON.
+Niin, lapsi, sun tulee tottelevainen olla
+ja tahtooni taipua t‰ydell‰ suosiolla.
+
+DORINE (juosten pakoon).
+Min‰ sulholle moiselle n‰ytt‰isin pitk‰‰ nen‰‰.
+
+ORGON (jonka aikoma korvapuusti osuu tyhj‰‰n).
+Siin' oikea myrkky on, lapseni, luonas sulla,
+h‰nen kanssaan vihan synnitt' en voi toimeen tulla.
+Minut sai pois suunnilta. Jatkaa en jaksa en‰‰;
+olen vimmastunut h‰nen julkeutensa t‰hden
+ja raikkaassa ilmassa rauhoittumaan nyt l‰hden.
+
+
+Kolmas kohtaus.
+
+    Mariane, Dorine.
+
+DORINE.
+Mut oletteko te mykk‰ ja kielt‰ vajaa?
+Minun t‰ytyykˆ teille asia valmiiks ajaa?
+Noin pannaan eteenne p‰‰tˆkset p‰hk‰hullut,
+eik' ett' ois sanaa suustanne vastaan tullut!
+
+MARIANE.
+Mit‰ voisinkaan? Is‰n valta on k‰ske‰ lastaan.
+
+DORINE.
+Mit‰ vaan, mik‰ tepsii moisia uhkia vastaan.
+
+MARIANE.
+Miten?
+
+DORINE.
+       Sanoa, ettei k‰skyst‰ lemmi kukaan,
+ett' itsellenne te otatte miehen, ei h‰lle;
+ja teille kun kuuluu se, eik‰ sen edemm‰lle,
+mies olkoon teid‰n, ei h‰nen mielens‰ mukaan;
+ja jos on Tartuffens‰ h‰lle niin armas kerran,
+niin itse naikoon hempunsa nimess‰ Herran.
+
+MARIANE.
+Ei, tied‰th‰n, miten suuri on is‰n valta,
+en ikin‰ tohtisi pyrki‰ pois sen alta.
+
+DORINE.
+Mut puhellaanpas. ValËre, teit' eikˆ h‰n kosi?
+H‰n mieleenne onko vai eikˆ? Kumpi on tosi?
+
+MARIANE.
+Voi, kuinka v‰‰rin mun tunteeni arvioit,
+kun moista, Dorine, sa multa kysy‰ voit,
+sadat kerrat vaikk' olen uskonut sulle varmaan
+jo lempeni liekin, salaisuuteni armaan.
+
+DORINE.
+Kuka tiet‰‰, puhuiko syd‰n, jos puhui huulet,
+ja totta vai leikki‰ liekˆ ne lemmen tuulet?
+
+MARIANE.
+Mua loukkaat kovin, Dorine, jos ep‰ilet noin;
+min‰ liiaksikin sinun sieluuni katsoa soin.
+
+DORINE.
+H‰n on siis rakas teille?
+
+MARIANE.
+                          Niin, kalliimpi el‰m‰‰ni.
+
+DORINE.
+Ja n‰kˆj‰‰n sama h‰ll' on kellossa ‰‰ni?
+
+MARIANE.
+Niin uskon.
+
+DORINE.
+            Ja kilvan kummankin mieli palaa
+pian yhteen p‰‰st‰?
+
+MARIANE.
+                    Niin, emmeh‰n muuta halaa.
+
+DORINE.
+Siis miten te aiotte is‰nne tuumat taittaa?
+
+MARIANE.
+Min‰ aion kuolla, jos h‰n minut toiselle naittaa.
+
+DORINE.
+Niin tottakin. En sit‰ keinoa keksinyt ois;
+se p‰lk‰‰st‰ p‰‰st‰‰, ei muuta kuin kuolee pois.
+On suurenmoinen se temppu. Jo sappirakko
+ihan harmista halkee, kun tuollaist' on kuulla pakko.
+
+MARIANE.
+Hyv‰ Jumala, kuinka, Dorine, olet julma mulle!
+Ei lainkaan toisen huolta sun surku tulle.
+
+DORINE.
+Ei lainkaan, jos kuka lapsellisuuksia laatii,
+ja asianpaikass' on puoleton raukka ja parka.
+
+MARIANE.
+Mut mit‰ m‰ voin? Joka niin olen ujo ja arka...
+
+DORINE.
+Vaan rakkaus vakuutta horjumatonta vaatii.
+
+MARIANE.
+Ja milloin muuta ValËre mult' osaksi sai?
+Ja h‰nenh‰n is‰ on suostutettava kai!
+
+DORINE.
+Mit‰? Siiskˆ, jos is‰nne moinen on jurrip‰‰,
+t‰pˆ t‰ynn‰ Tartuffe‰, muuta ei kuule, ei n‰‰,
+jos purkaa h‰n sanansa, sille ei arvoa anna,
+sen voitteko noin oman armaanne syyksi panna?
+
+MARIANE.
+Mut enkˆ, jos korskana kiell‰n ja asetun poikin,
+kovin itse toiseen ihastuneeni n‰yt‰?
+H‰nen vuokseenko, kuinka h‰nt' ansiot aateloikin,
+j‰t‰n kainouden, lapsen velvollisuutt' en t‰yt‰!
+Ja jos mua vaadit lempeni ilmi tuomaan...
+
+DORINE.
+Ei, ei, min' en mit‰‰n vaadi. Teill‰, ma huomaan,
+on mieli Tartuffelle menn‰; ja v‰‰rin ois,
+kun aattelen, teit‰ siit' aikeesta k‰‰nt‰‰ pois.
+Mit‰ syyt‰ mull' oiskaan moista liittoa vastaan?
+Se kauppahan on ihan mainio oikeastaan.
+Tartuffe, niin, herra Tartuffe, se on jotain vasta,
+oh, herra Tartuffe, kas, sellaista tarjokasta
+ei vaan joka oksalta oteta, ei pid‰ luulla,
+ja ken h‰net omaksi saa, se on onnen puulla.
+Maankuulu jo on h‰nen maineensa, kunniansa;
+niin ylh‰inen mies, niin muhkea muodoltansa:
+on punaiset korvat ja poskilla kaunis helo,
+kera moisen miehen teill' ihana eess' on elo.
+
+MARIANE.
+Hyv‰ Jumala!
+
+DORINE.
+             Voi, mik‰ riemu rintanne t‰ytt‰‰,
+kun saatte niin pulskan puolison -- kelpaa n‰ytt‰‰!
+
+MARIANE.
+Oh, lakkaa, lakkaa jo! Ilmankin mull' on huolta.
+Sano mulle keino, mi turvaa liitolta tuolta.
+Olen valmis, kaikkeni teen; mit‰ vaadit, sano.
+
+DORINE.
+Ei, totelkoon tyt‰r is‰‰ns‰; vastaanpano
+on synti, vaikk' apinalle h‰n aikois naittaa.
+Mit‰ valitatte? Mik' onnea moista haittaa?
+Te vaunuilla ajatte pikku kaupunki-pahaan,
+on seuraa siell', on serkkua, t‰ti‰, set‰‰,
+sit‰ huvia ette vaihtaisi suureen rahaan.
+Ja sitten hienosto teid‰t piiriins‰ vet‰‰.
+Verovoudin rouvan, pormestarinnan luo
+tulotervehdykselle k‰ytte, he kohteliaina
+heti vieraan istua saranatuolia tuo.
+Ja karnevaaliss' on tarjona tanssit aina
+ja soittokuntakin: s‰kkipilli‰ kaksi,
+marakatti ja marionetteja kukkuraksi.
+Jos miehenne viel‰...
+
+MARIANE.
+                      Oh, otat jo hengen multa.
+Mua auttaisit ennen, antaisit neuvon jonkin.
+
+DORINE.
+Olen palvelijanne!
+
+MARIANE.
+                   Ei, kuule, Dorine kulta!
+
+DORINE.
+Ei, tulkoon vaan tosi siit‰, se parhaiks onkin.
+
+MARIANE.
+Rakas, kiltti...!
+
+DORINE.
+                  Ei!
+
+MARIANE.
+                      Jos tiet‰isit, kuinka syv‰...
+
+DORINE.
+Tartuffe on omansa teille, ja sill‰ hyv‰!
+
+MARIANE.
+Ain' ennen turvata sain sinun mielees hell‰‰n...
+
+DORINE.
+Ei, tarpeeksenne nyt teid‰t tartuffitell‰‰n.
+
+MARIANE.
+Sua kosk' ei liikuta siis t‰m‰ huoli ja h‰t‰,
+minut kokonaan ep‰toivoni huostaan j‰t‰;
+se on tuki ainoa mielell‰ murretulla,
+ja murheeseen apu varma on tiedossa mulla.
+
+    (Aikoo menn‰.)
+
+DORINE.
+Seis, ‰lk‰‰h‰n menkˆ. Jo vihani alkaa laata.
+En sent‰‰n teille s‰‰litˆn olla saata.
+
+MARIANE.
+Niin, tied‰tkˆs, jos pelastusta ei tulle,
+Dorine, se kohtalo julma on surma mulle.
+
+DORINE.
+Ei noin pid‰ tuskailla. Ei ole tarvis kuolla,
+h‰t‰ keinon keksii. Kas, herra ValËre on tuolla.
+
+
+Nelj‰s kohtaus.
+
+    ValËre, Mariane, Dorine.
+
+VAL»RE.
+Juur' ik‰‰n kuulin uutisen, jota en voinut
+ma aavistaa ja joka on todella soma.
+
+MARIANE.
+Mit‰?
+
+VAL»RE.
+      Ett‰ teist‰ tulee Tartuffen oma.
+
+MARIANE.
+Is‰ siksi on todella asian aprikoinut.
+
+VAL»RE.
+Mit‰, is‰nne, neiti...!
+
+MARIANE.
+                       On muuttanut tuumiaan
+H‰n mulle ne ilmoitti juuri, vain hetki siit' on.
+
+VAL»RE.
+Ihan tosissaanko?
+
+MARIANE.
+                  Niin, ihan tosissaan.
+H‰n sanoi vakaasti p‰‰tt‰neens‰ sen liiton.
+
+VAL»RE.
+Ja ent‰s mit‰ te itse siit' arvelette?
+
+MARIANE.
+En tied‰.
+
+VAL»RE.
+          Kas, sep‰ vilpitˆn vastaus! Ette
+siis tied‰?
+
+MARIANE.
+            En.
+
+VAL»RE.
+                Ette?
+
+MARIANE.
+                      Niin, mit‰ neuvotte mulle?
+
+VAL»RE.
+Mit‰s muuta kuin menk‰‰ armaalle aiotulle!
+
+MARIANE.
+Sekˆ teid‰n neuvonne?
+
+VAL»RE.
+                      Niin.
+
+MARIANE.
+                            Ihan totta?
+
+VAL»RE.
+                                        Niin aivan.
+Se on loistava vaali ja maksaa varmasti vaivan.
+
+MARIANE.
+Hyv' on. Min‰ en sit‰ neuvoa sikseen heit‰.
+
+VAL»RE.
+Sen nouto ei paljonkaan kai painane teit‰.
+
+MARIANE.
+Ei enemp‰‰ kuin teit‰ sen antikaan.
+
+VAL»RE.
+Min‰ teid‰n mieliksenne sen annoin vaan.
+
+MARIANE.
+Ja iloksi teille min‰ sen mukaan teen.
+
+DORINE (vet‰ytyen n‰ytt‰mˆn per‰lle).
+Saas n‰hd‰, mit‰h‰n tuosta on tullakseen.
+
+VAL»RE.
+T‰m‰ siis on rakkautta! Ja todeksi luulin,
+kun mulle...
+
+MARIANE.
+             Turha jatkaa, jo kyllin kuulin.
+Mua olette suoraan neuvonut ottamaan
+sen, joka mulle mieheksi tarjotaan,
+ja niin min‰ aion tehd‰, sen lupaan ja vannon
+kun teilt‰ sain niin sattuvan neuvonannon.
+
+VAL»RE.
+Sill' ‰lk‰‰ puolustelko te aikeitanne;
+teill' ennakolt' oli valmis jo ohjelmanne.
+Ja verukkeihin te turvaatte joutaviin,
+jott' ois syy sananne rikkoa.
+
+MARIANE.
+                               Niinp‰ niin;
+se on totta.
+
+VAL»RE.
+             Varmaan! Ja lapsellisuutta multa
+oli uskoa lempenne olematonta tulta.
+
+MARIANE.
+Niin kai. Lupa teill' on pit‰‰ se arvelunne.
+
+VAL»RE.
+Vai on lupa, vai! Mut ehk‰p‰ moist' ei sied‰
+syd‰n loukattu kostamatta. Ma tied‰n, kunne
+voin syd‰meni ja k‰teni tarjolle vied‰.
+
+MARIANE.
+Sit' en ep‰ile lainkaan. Ken niin jaloansioinen
+on kerran...
+
+VAL»RE.
+             Oh, ‰lk‰‰! Mull' ansio ei ole suuri,
+sen tied‰n, sen osoitatte te itse juuri.
+Mut turvaan hyvyyteen, jota muuan toinen
+ei ep‰‰ multa, vaan mielell‰ lemmekk‰‰ll‰
+sen suostuu korvaamaan, mit‰ menet‰n t‰‰ll‰.
+
+MARIANE.
+V‰h‰ vahinko teille, ja moisesta vaihtelusta
+te saatte siihen helposti lohdutusta.
+
+VAL»RE.
+Koen tehd‰ parhaani, olkaa te varma siit‰.
+Jo kunnia vaatii, ett' i‰ksi unhottaa
+sen, jolta uskottomuutta kokea saa.
+on ainakin voivinaan, jos ei voimat riit‰;
+ja heikkoutt' anteeksiantamatonta ois
+viel' ilmaista lempe‰ sille, ken viittaa pois.
+
+MARIANE.
+Tuo katsantokanta on todella ylv‰s ja jalo.
+
+VAL»RE.
+On kyll‰; kukaan ei sit‰ kielt‰‰ saata.
+Vai pit‰iskˆ ehk‰ ikuinen lemmen palo
+mun viel‰ syd‰mess‰ni teille taata
+ja toisen kainaloisena katsoa teit‰
+eik' yhty‰ syd‰meen, joka ei mua heit‰?
+
+MARIANE.
+P‰invastoin, en hartaammin min‰ mit‰‰n sois,
+ja tahtoisin, ett‰ se tapahtunut jo ois.
+
+VAL»RE.
+Sit‰ tahdotte?
+
+MARIANE.
+               Niin.
+
+VAL»RE.
+                     T‰m‰ loukkaus jo riitt‰kˆˆn.
+Hetipaikalla toiveenne tuon panen t‰yt‰ntˆˆn.
+
+    (Astuu askeleen l‰hte‰kseen.)
+
+MARIANE.
+Hyv‰ on.
+
+VAL»RE (k‰‰ntyen takaisin).
+         Mut muistakaa, ett' itse sen teitte:
+minut saatoitte siihen, toivoni muun kun veitte.
+
+MARIANE.
+Niin.
+
+VAL»RE (k‰‰ntyen).
+      Ett' esimerkki‰, jonka ma teilt‰ sain,
+min‰ seuraan.
+
+MARIANE.
+              Niin, esimerkki‰ multa vain.
+
+VAL»RE (l‰htien menem‰‰n).
+Ja sen min‰ teen, mit‰ mielitte, ilman ten‰‰.
+
+MARIANE.
+Min‰ kiit‰n.
+
+VAL»RE (k‰‰ntyen takaisin).
+             Ette n‰‰ mua koskaan en‰‰.
+
+MARIANE.
+Niin, onnea vain!
+
+VAL»RE (k‰‰ntyen ovelta takaisin).
+                  Mit‰?
+
+MARIANE.
+                        No?
+
+VAL»RE.
+                            Te kutsuitte, luulen?
+
+MARIANE.
+Min‰? Uneksitteko?
+
+VAL»RE.
+                   Siis min‰ jatkan matkaa.
+Hyv‰sti, neiti.
+
+    (L‰htee menem‰‰n hitaasti.)
+
+MARIANE.
+               Hyv‰sti, herra.
+
+DORINE (Marianelle).
+                               Ma kuulen,
+ett' ymm‰rrys tipotiehen jo teilt‰ h‰‰tyy.
+Min‰ aattelin: antaapa noiden riitaansa jatkaa,
+niin n‰hd‰‰n, mik‰ sen viimeinkin p‰‰ksi p‰‰tyy.
+Hoi, herra ValËre!
+
+    (Tarttuu ValËren k‰sivarteen.)
+
+VAL»RE (on vastustelevinaan).
+                   Dorine, mik‰ nyt sua vaivaa?
+
+DORINE.
+Seis, tulkaa!
+
+VAL»RE.
+              Ei, t‰m‰ liiaksi mielt‰ni kaivaa.
+Mit' on tahtonut h‰n, sen teen, ‰l‰ koeta est‰‰.
+
+DORINE.
+Seis vaan!
+
+VAL»RE.
+           Ei, ei, mik' on p‰‰tetty kerran, se kest‰‰.
+
+DORINE.
+Oh!
+
+MARIANE (itsekseen).
+    Ei mua n‰hd‰ h‰n k‰rsi, on vasten mielt‰
+t‰‰ll' oloni h‰lle, paras, kun v‰istyn tielt‰.
+
+DORINE (p‰‰st‰en ValËren ja juosten Marianen j‰lkeen).
+H‰n myˆs! Mihin juoksette?
+
+MARIANE.
+                           P‰‰st‰!
+
+DORINE.
+                                   En laske teit‰.
+
+MARIANE.
+Dorine, ‰l‰ viitsi turhia viivykkeit‰!
+
+VAL»RE (itsekseen).
+Se on selv‰‰, h‰nt‰ mun n‰kˆni tuskastuttaa,
+paras siit‰ kiusasta siis h‰net vapauttaa.
+
+DORINE (p‰‰st‰en Marianen ja juosten ValËren j‰lkeen).
+Nyt toinen! Lempoko teiss' on! Kas niin, riitt‰‰
+jo jupina, saatte kumpikin t‰nne tulla.
+
+    (Ottaa ValËrea ja Marianea k‰dest‰ ja vet‰‰ heid‰t l‰hekk‰in.)
+
+VAL»RE (Dorinelle).
+Mut mik‰ on tarkoitus?
+
+MARIANE (Dorinelle).
+                       Mik‰ mieless' on sulla?
+
+DORINE.
+T‰m‰ pulma purkaa, taas v‰lit yhteen liitt‰‰.
+    (ValËrelle.)
+Kuka hurja nyt yltyy p‰‰lle noin vimmatulle!
+
+VAL»RE.
+Mut etkˆ kuullut, mit‰ h‰n virkkoi mulle?
+
+DORINE (Marianelle).
+Mik‰ mielettˆmyys noin turhasta kiihottua!
+
+MARIANE.
+Mut etkˆ n‰hnyt, kuinka h‰n kohteli mua?
+
+DORINE.
+Samanlaisia molemmat! Soh!
+    (ValËrelle.)
+                           H‰n ei muuta halaa
+kuin omanne olla, se sana on varmempi valaa.
+    (Marianelle.)
+Vain teist‰ h‰n pit‰‰, teid‰t h‰n ainoastaan
+omaks saada toivoo, p‰‰ll‰ni siit‰ vastaan.
+
+MARIANE (ValËrelle).
+Miks sitten mulle neuvoa miest‰ toista?
+
+VAL»RE (Marianelle).
+Miks sitten tulla ja kysy‰ multa moista?
+
+DORINE.
+Ihan hupsuja kumpikin! Nyt k‰det t‰nne vaan!
+    (ValËrelle.)
+Kas niin!
+
+VAL»RE (antaen Dorinelle k‰tens‰).
+          Mit‰ varten?
+
+DORINE (Marianelle).
+                       Te myˆs!
+
+MARIANE (antaen myˆs k‰tens‰).
+                                Mit on olevinaan
+kuje tuo?
+
+DORINE.
+          Pian! Varjele! Viel‰ ne vikuroivat!
+Ovat, raukat, rakastuneemmat, kuin luulla voivat.
+
+    (ValËre ja Mariane pit‰v‰t toisiaan k‰dest‰
+    hetkisen katsomatta toisiinsa.)
+
+VAL»RE (k‰‰ntyen Marianeen p‰in).
+Siit' ‰lk‰‰ noin nyt painuko pahoittelulle,
+ja suokaahan toki suopea silm‰ys mulle.
+
+    (Mariane k‰‰ntyy ValËreen p‰in ja hymyilee.)
+
+DORINE.
+Saa sanoa: rakastuneet ovat hˆps‰ht‰neit‰.
+
+VAL»RE (Marianelle).
+Niin, eikˆ mull' ole syyt‰ moittia teit‰?
+Ja ettekˆ ollut h‰ijy, jos totta haastaa,
+noin julmasti kun raskitte mielt‰ni raastaa?
+
+MARIANE.
+Mut ent‰ te, kiitt‰m‰ttˆmin ihmisist‰...
+
+DORINE.
+Paras toisella kertaa jatkaa kiistelemist‰
+ja mietti‰ nyt, mill' est‰‰ ne tuumat vois.
+
+MARIANE.
+Niin, neuvo, mi keino meille nyt turvan tois.
+
+DORINE.
+Me saamme panna kaikki tuumamme tukkoon.
+    (Marianelle.)
+Ei is‰nne taivu;
+    (ValËrelle.)
+                 on hulluus ampunut ukkoon.
+    (Marianelle.)
+Mut teid‰n on viisainta tottelevanne n‰ytt‰‰,
+h‰nen hassuttelunsa haluavanne t‰ytt‰‰,
+jott' ois h‰d‰n tullen teid‰n helpompi niin
+h‰‰t saada j‰‰m‰‰n aikoihin tuonnempiin.
+Ken, n‰hk‰‰s, aikaa voittaa, se kaikki voittaa.
+Jokin ‰kkivaiva, kun p‰‰tetty p‰iv‰ koittaa,
+on syy, joka tuottaa varmasti viivykett‰.
+Tai huonoja enteit‰ t‰yteen juhla ja aatto:
+on s‰rkynyt peili, on kohdannut ruumissaatto,
+te olette unissa n‰hnyt sekaista vett‰.
+Ja paras, jost' ei yli p‰‰st‰, ei ymp‰ritse:
+ei vihit‰ teit‰, ellette suostu itse.
+Mut varmint' on pysy‰ nyt ihan erill‰nne,
+teit' ettei n‰hd‰ puheissa kesken‰nne.
+    (ValËrelle.)
+Kaikk' yst‰v‰nne te liikkeelle saatte panna,
+etteiv‰t sanaa saamaanne rikkoa anna.
+    (Marianelle.)
+Me pyyd‰mme lankoa, ett‰ h‰n toimiin ryhtyy,
+ja ‰itipuolenne kaiketi meihin yhtyy.
+
+VAL»RE (Marianelle).
+Mit‰ keinoja miettinemmekin vaaraa vastaan,
+ylin toivoni sent‰‰n teiss‰ on ainoastaan.
+
+MARIANE (ValËrelle).
+Min‰ en voi is‰ni mielt‰ ja tahtoa taata,
+mut eroon ValËresta ei mua mik‰‰n saata.
+
+VAL»RE.
+Minut teette onnelliseksi! Eik' esteet mitk‰‰n...
+
+DORINE.
+On juttua rakastavilla jos kuinka pitk‰‰n!
+Nyt menk‰‰.
+
+VAL»RE (menee takaisin, mutta k‰‰ntyy takaisin).
+            Min‰ vain...
+
+DORINE.
+                         Ei, nyt pankaa jo sulku!
+Te menette tuosta; ja tuosta on toisen kulku.
+
+    (Tyˆnt‰‰ heit‰ kumpaakin olkap‰ist‰ ja pakottaa eroamaan.)
+
+
+
+
+KOLMAS NƒYT÷S.
+
+
+Ensimm‰inen kohtaus.
+
+    Damis, Dorine.
+
+DAMIS.
+Minut salama lyˆkˆˆn, saakoon tuhoni tulla,
+mua kohdeltakoon kuin pahinta konnaa ik‰‰n,
+jos est‰‰ voi minut valta ja mahti mik‰‰n,
+ja jollen jotain tee, mit' on mieless‰ mulla.
+
+DORINE.
+Ei, hillitk‰‰ nyt tuota kiihkoa kuumaa,
+siit' eih‰n is‰nne muuta kuin puhui vasta.
+Ei kaikkea tehdyks saa, mit‰ mieli tuumaa,
+ja matkaa on v‰lill‰ aikeen ja toimeenpanon.
+
+DAMIS.
+Min‰ opetan juonitteluun sit‰ jumalanlasta,
+pari kirkasta sanaa h‰lle ma korvaan sanon.
+
+DORINE.
+Ei, ei, niin h‰neen kuin is‰‰nne n‰hden suomaan
+min‰ neuvon kaikki vain ‰itipuolenne huomaan.
+Tartuffen mieless' ei h‰n ihan v‰h‰‰ paina;
+mit‰ rouva vain sanoo, h‰n yht‰ mielt‰ on aina.
+Niin, ehk‰ se on ihan t‰ytt‰ ihastumista.
+Kunp' oiskin! Se meille ois hyvin edullista.
+H‰nt' ik‰‰n kutsumass' olin rouvan luoksi,
+jott' ottaa selv‰n teid‰n etunne vuoksi
+h‰n vois h‰nen aikeistaan sek‰ ilmoittaa,
+mit‰ riitoja, rettelˆit‰ h‰n aikaan saa,
+jos naimatuumaa tuota ei heit‰ valtaan.
+En p‰‰ssyt puheille, kuulin palvelijaltaan
+h‰nen rukoilevan, mut on kohta h‰n ilmestyv‰.
+Juur' odottelen. Siis menk‰‰ nyt, olkaa hyv‰.
+
+DAMIS.
+Halu mukana olla mun ois h‰nen l‰hettyvill‰‰n.
+
+DORINE.
+Ei, heid‰n on oltava kahden.
+
+DAMIS.
+                             En h‰iritse mill‰‰n.
+
+DORINE.
+Te malttaisitte! Kyll‰ on malttinne tuttu.
+Se ois paras keino tyyten turmella juttu.
+Pian, menk‰‰!
+
+DAMIS.
+              Ei, min‰ j‰‰n. En kiihdy, ei huolta!
+
+DORINE.
+Miten olette h‰ijy! Piiloon! H‰n tulee tuolta.
+
+    (Damis piiloutuu n‰ytt‰mˆn per‰ll‰ olevaan sivuhuoneeseen.)
+
+
+Toinen kohtaus.
+
+    Tartuffe, Dorine.
+
+TARTUFFE (puhuen palvelijalleen sisemp‰‰n huoneeseen
+heti Dorinen huomattuaan).
+Pane lippaaseen taas ruoska ja jouhipaita,
+ja sielulles ano aina valoa taivaan.
+Jos ken mua kysyy, niin almuja laupiaita
+menin viem‰‰n lievitykseksi vankien vaivaan.
+
+DORINE (syrj‰‰n).
+Miten hurskas on olevinansa h‰n muiden n‰hden!
+
+TARTUFFE.
+Mit‰ tahdotte?
+
+DORINE.
+               Pyyt‰‰ teit‰...
+
+TARTUFFE (vet‰en nen‰liinan taskustaan).
+                               Ei, Herran t‰hden!
+Sit‰ ennen ottakaa t‰m‰ niistinliina.
+
+DORINE.
+Mit‰ varten?
+
+TARTUFFE.
+             Verhotkaa tuo paistava povi.
+N‰kˆ moinen on loukkaus sielun ja silm‰n piina
+ja miettim‰‰n saa sellaista, mik‰ ei sovi.
+
+DORINE.
+Oh, kovinpa helposti teid‰t kiusaus kiehtoo,
+ja vallan suuri teihin on valta lihan.
+En tiet‰‰ voi, mihin liekkiin se teid‰t liehtoo,
+mut en ota tulta min‰ niin herk‰sti ihan;
+koko pintanne vaikk' ihan apposen alasti ois,
+mua pennin eest‰ ei se kiusata vois.
+
+TARTUFFE.
+Te k‰ytt‰k‰‰ v‰h‰n s‰‰dyllisemp‰‰ kielt‰,
+tai mun heti paikall' on pakko v‰isty‰ tielt‰.
+
+DORINE.
+Ei, ei, min‰ teille aion nyt rauhan suoda,
+pari sanaa vain oli toimeni teille tuoda.
+Koht' ik‰‰n saapuu rouva nyt saliin t‰h‰n
+ja toivoo saada kanssanne puhella v‰h‰n.
+
+TARTUFFE.
+Ah, kernaasti!
+
+DORINE (syrj‰‰n).
+               Kappas vaan, miten lauha jo onkaan!
+Min‰, totta vie, en siin‰ horise honkaan.
+
+TARTUFFE.
+H‰n viipyy ehk‰?
+
+DORINE.
+                 Jo kuulen askelet t‰nne,
+se on h‰n; nyt voitte haastella kesken‰nne.
+
+
+Kolmas kohtaus.
+
+    Elmire, Tartuffe.
+
+TARTUFFE. Yh‰ suokoon siunaus kaitsijan kaikkihyv‰n
+niin sielun kuin ruumiin terveytt' ylettyv‰n
+kautt' el‰m‰nne niin runsaasti, kuin sit‰ halaa
+syd‰n halvin, jossa taivaan rakkaus palaa!
+
+ELMIRE.
+Niin hurskas toivotus! Kiitollisuuteni syvin!
+Mut on mukavampi, jos istumme. Tehk‰‰ hyvin!
+
+TARTUFFE (istuutuen).
+Miten voitte nyt, joko alatte voimiinne tulla?
+
+ELMIRE (istuutuen).
+Hyvin, kiitos, ei ollut kuumetta kauan mulla.
+
+TARTUFFE.
+Mun rukousteni ansio olla ei voi,
+ett' armon sen ja suosion taivas soi;
+mut sille sit' en ole huoannut huokausta,
+jok' ei olis anonut tuskiinne huojennusta.
+
+ELMIRE.
+Se liikaa huolta on ollut.
+
+TARTUFFE.
+                           Oh, kuinka vois
+toki liiaksi helli‰ kallista vointianne!
+Mun omani altis ollut sen eest‰ ois.
+
+ELMIRE.
+Siis mik‰‰n ei rajoita kristityn-rakkauttanne!
+J‰‰n suureen velkaan hyvyydest‰nne siit‰.
+
+TARTUFFE.
+Ei ansionne varjoksikaan se riit‰.
+
+ELMIRE.
+Mull' ois er‰s asia, ja iloitsen, ettei t‰ss‰
+ole puheluamme nyt kukaan h‰iritsem‰ss‰.
+
+TARTUFFE.
+Olen onnellinen, minut t‰ytt‰‰ se hurmiolla,
+kun kahden kesken kanssanne saan nyt olla.
+Sit‰ onnea rukoillut olen palavasti,
+vaikk' ev‰nnyt taivas on sen t‰h‰n hetkeen asti.
+
+ELMIRE.
+Vain olkaa mulle nyt avoin -- en muuta halaa --
+mult' ettette mit‰‰n mielenne aietta salaa.
+
+    (Damis raottaa n‰ytt‰ytym‰tt‰ sivuhuoneen
+    ovea voidakseen kuunnella keskustelua.)
+
+TARTUFFE.
+Mun toivoni myˆs on se suosio ainokaisin,
+ett' ilmaista sisimm‰n sieluni teille saisin,
+ja vannon, ett‰ jos nureksuin min‰ noita
+yh‰ luoksi lumoomianne ihailijoita,
+ei ollut syyn‰ vihastus teit‰ vastaan,
+vaan palava mielen alttius ainoastaan,
+halu puhdas...
+
+ELMIRE.
+               Niin olen ymm‰rt‰nyt sen juuri.
+Te pelastaisitte sieluni, eikˆ totta?
+
+TARTUFFE (tarttuen Elmiren k‰teen ja sit‰ pusertaen).
+Niin aivan, niin koko syd‰mest‰ni, jotta...
+
+ELMIRE.
+Uh, puristatte!
+
+TARTUFFE.
+                On intoni liian suuri.
+Min‰ teillekˆ pahaa tein ihan tiet‰m‰tt‰,
+joka tahtoisin...
+
+    (Panee k‰tens‰ Elmiren polvelle.)
+
+ELMIRE.
+                  Mihin oikein te panette k‰tt‰?
+
+TARTUFFE.
+Miten laheasta vaatteesta teill‰ on puku!
+
+ELMIRE.
+Oh, ‰lk‰‰! Ette saa! Mua kutkutus piinaa.
+
+    (Elmire siirt‰‰ tuoliaan edemm‰ksi,
+    Tartuffe siirt‰ytyy per‰st‰.)
+
+TARTUFFE (sormiellen Elmiren kaulaliinaa).
+Noin hienoa n‰hnyt en viel' ole pitsiliinaa!
+Se on n‰pp‰r‰‰, nykyp‰iv‰inen ihmissuku;
+ikimaailmass' ei moist' ole tehty ennen.
+
+ELMIRE.
+Niin, ehk‰p‰ ei. Mutt' asiaamme nyt mennen:
+siis luopuu, kuulemma, mieheni sanastaan
+ja teille tytt‰rens' antaa. Onko se tosi?
+
+TARTUFFE.
+H‰n jutteli jotain; mut jos toden sanoa saan,
+niin en min‰ ensink‰‰n sit‰ onnea kosi;
+toist', ihanampaa toivetta kohti taipuu
+kaikk' ihastukseni, kaikki mieleni kaipuu.
+
+ELMIRE.
+Niin, teist' on kaikki maallinen arvoa vailla.
+
+TARTUFFE.
+Mull' ei ole syd‰n kivest‰ mill‰‰n lailla.
+
+ELMIRE.
+On taivas mieless‰nne, ma arvaan, aina,
+maan matalan puoleen teit‰ ei mik‰‰n paina.
+
+TARTUFFE.
+Vaikk' i‰ist‰ ihanuutta sielumme halaa,
+saa ajallinenkin rakkaus meiss‰ palaa:
+on armas pakko sytty‰ syd‰memme,
+kun taivaan kaunoluomia katselemme.
+Sen kauneus kaltaisissanne heijastuu,
+mut teille vertaa ei ved‰ kukaan muu.
+Loi kasvoillenne se sulon, mi silm‰‰ kiehtoo
+ja syd‰men haltioi, poven liekkiin liehtoo.
+En, teit‰ katsoen, luoduista kaunein, saata
+ma luojan ihmeit‰ ylist‰m‰st‰ laata
+enk' ihastumatta, en tuntehetonna rinta
+h‰nen kuvastustaan kohdata ihaninta.
+Aluss' ep‰ilin sit‰ salaista syttymyst‰,
+ett' ois se vain pahan paulaa ja v‰ijytyst‰,
+olin p‰‰tt‰nyt jo aivan paeta pois,
+kun arvelin, ett‰ sieluni vaarass' ois.
+Toki vihdoin, naisist' armahin, selkeni mulle,
+ettei mua tielle se johtanut tuomitulle,
+teit' ett‰ puhtaudessa ma lempi‰ voin,
+ja siks sen lemmen valtaan sieluni soin.
+Ylen rohkeaa -- t‰ys selko on siit‰ mulla --
+on tuomaan t‰‰ syd‰nuhrini teille tulla.
+Mut hyvyyteenne turvaan; se antaa yksin,
+mit' en ylet‰ mit‰ttˆmyyteni yrityksin.
+Min‰ toivoni, riemuni, rauhani teiss‰ lˆyd‰n,
+saan tuomion tai autuuden armopˆyd‰n,
+ja teilt‰ nyt, miten tahdotte ainoastaan,
+otan onneni taikka onnettomuuteni vastaan.
+
+ELMIRE.
+Tep‰ teette tunnustuksia kohteliaita;
+ne kulkevat vain hieman kummia maita.
+Te saisitte paremmin halunne pantsaroida,
+v‰h‰n moisia aikoessanne aprikoida,
+te hurskas mies, jota kaikk' ihan yht‰ suuta...
+
+TARTUFFE.
+Oh, hurskaskin on ihminen eik‰ muuta.
+Kun eess‰ moinen on kauneuden kaikkivalta,
+syd‰n antautuu, ei pohdi, ei punnita malta.
+Puhe t‰‰, sen tied‰n, on outoa kyll‰ kuulla;
+mut en ole mik‰‰n enkeli, ei pid‰ luulla.
+Jos tunnustukseni tuomion teilt‰ saa,
+oman ihanuutenne tenho te tuomitkaa.
+Siit' asti kuin sen ylimaallisen mahdin n‰in,
+te olette valtiatar, jonk' orjaksi j‰in;
+minut taivaankaunis silm‰inne katse voitti,
+sen taikaa vastustaa syd‰n turhaan koitti:
+min‰ paastosin, rukoilin, vuodatin kyyneleit‰,
+jok' ainoa sieluni aatos vain etsi teit‰;
+mit‰ tuhannesti jo katseet ja huokaukset,
+sit‰ tulkitsee nyt huulten tunnustukset.
+Jos tuskani n‰‰tte te armahtavalla miell‰,
+mi halvalle orjallenne ei rauhaa suo,
+jos lempeytenne lohtua mult' ei kiell‰,
+vaan laskeutuu minun mit‰ttˆmyyteni luo,
+min‰ innolla palavalla teit', ihanaista,
+niin palvelen, kuin ei viel' ole palveltu naista.
+Ei kunniallenne teill' ole vaaraa siit‰,
+ei pelkoa, ett‰ ma hiiskuisin n‰it‰ ja niit‰.
+Nuo hovikeikarit, joihin on hulluja naiset,
+ne melua pit‰‰, ne kerskujat turhamaiset:
+hyv‰ll' onnellaan siin' ylv‰stelt‰v‰n kuullaan;
+heti kertovat julki, jos soi kuka suosion,
+sen alttarin h‰v‰isev‰t he lˆyh‰ll‰ suullaan,
+joll' uhrannut syd‰n uhrinsa juuri on.
+Mut meik‰l‰isen mieli se peitossa palaa,
+se salaisuuden varmasti k‰tkee ja salaa.
+Oman maineemme varjelu meille on liian kallis,
+ett' armastetun se alttiiksi j‰tt‰‰ sallis;
+ja meihin suostuen taattuna sill‰ tapaa
+on lempi juoruista, riemu vaaroista vapaa.
+
+ELMIRE.
+Saan sanoistanne koreista kiitt‰‰ teit‰.
+Mult' ette todellakaan te mielt‰nne peit‰.
+Mut ent‰ jos nyt -- sit‰ pelkoa ettekˆ tunne --
+puhun miehelleni ja ilmoitan ihastelunne.
+Jos minua teid‰n h‰n liehiv‰n aavistais,
+se sammumaan ehk' yst‰vyytenne sais.
+
+TARTUFFE.
+Min‰ tied‰n, te siihen olette liian hyv‰,
+te ette rankaise uskalikkoa houkkaa;
+teilt' anteeks saa se ihmisheikkous syv‰,
+mi lempeni ilmaisussa nyt teit‰ loukkaa.
+Ja muistakaa, kun eess‰ te olette kerta,
+mull' ett' on silm‰t ja ett' olen lihaa ja verta.
+
+ELMIRE.
+Muut muulla tavoin voisivat tehd‰ kait,
+minun mieluisinta on pysy‰ t‰st‰ vait.
+Ei mieheni saa t‰t‰ tiet‰‰, mut vastike siit' on
+myˆs suotavanne: te suoraan ja parhaanne pannen
+tuot' asiaa ValËren ja Marianen
+nyt ajatte ettek‰ esteeksi j‰‰ sen liiton,
+sit‰ ette yllyt‰ vallank‰yttˆ‰ v‰‰r‰‰,
+joka pois oman toiselt' ottaa ja teille m‰‰r‰‰,
+ja...
+
+
+Nelj‰s kohtaus.
+
+    Elmire, Damis, Tartuffe.
+
+DAMIS (tullen esiin piilopaikastaan).
+      Ei, ei lainkaan. T‰m‰ on tuleva julki.
+Olin huoneessa t‰ss‰ ja sain ihan kaikki kuulla.
+Mun taivaan armon johdoks se t‰ytyy luulla,
+jott' ilkiˆ tuo, joka kiusaksi t‰nne kulki,
+saa rankaisunsa, jotta ma tuon valehurskaan
+ja rˆyhke‰n petturin juonet kostan ja murskaan,
+saan is‰ni n‰kem‰‰n, mit‰ sieluunsa sulkee
+se konna, jok' iske‰ teihin silm‰ns‰ julkee.
+
+ELMIRE.
+Ei, Damis; se riitt‰‰, jos saa h‰n paremman ‰lyn
+ja suomani armon ansaitsevansa n‰ytt‰‰.
+Mit‰ lupasin kerran, se myˆs minun suokaa t‰ytt‰‰.
+Min‰ en pid‰ nostosta mink‰‰n huudon ja h‰lyn.
+Kas, vaimo moisia hupsuja nauraa vaan,
+sill' ei mene miehens‰ korvia vaivaamaan.
+
+DAMIS.
+Niin tehd‰ teill‰ voi omat olla syynne,
+ja mull' omat syyni, jos yhdy en menettelyynne.
+Ihan ilve ja pilkka ois sit‰ miest‰ s‰‰st‰‰;
+tuon ulkokullatun silmitˆn julkeus p‰‰st‰‰
+jo vihdoin valloilleen mun vihani palon;
+h‰n mullin mallin on k‰‰nt‰nyt koko talon;
+jo liian kauan t‰‰ll‰ h‰n is‰‰ johti
+ja mun ja ValËren toiveita sortaa tohti.
+Nyt h‰nest' on vieroitettava veijari tuo,
+ja siihen taivas mulle nyt keinon suo.
+Sit‰ kiitt‰‰ tahdon tilaisuudesta t‰st‰,
+t‰t‰ etua kuinka ma luopuisin k‰ytt‰m‰st‰?
+En lainkaan ansaitsis sit‰ saamaan tulla,
+jos lyˆn sen laimin, kun se on k‰dess‰ mulla.
+
+ELMIRE.
+Damis!
+
+DAMIS.
+       Ei, nyt min‰ teen oman p‰‰ni mukaan.
+Nyt mieleni on ihan iloa tulvillaan;
+mult' ette nyt est‰‰ saata te eik‰ kukaan
+sit‰ riemua, ett‰ kerrankin kostaa saan.
+Nyt selvitet‰‰n t‰m‰ seikka ja pohjaan asti;
+kas niin, ei voisi sattua paremmasti.
+
+
+Viides kohtaus.
+
+    Orgon, Elmire, Damis, Tartuffe.
+
+DAMIS.
+Is‰, t‰‰ll‰ on teille tervehdykseksi juttu,
+veres yll‰tys, joka l‰helt‰ koskee teit‰.
+Hyvin teille maksaa tuo hyv‰, kallis tuttu,
+ei hellint‰‰nne h‰n palkitsematta heit‰.
+Ison intonsa kokee sill‰ h‰n ilmi tuoda,
+ett' aikoo kunniaanne h‰n lokaa luoda;
+h‰net yll‰tin t‰‰ll‰, kun puolisollenne juuri
+tuo julkea tunnusti rietasta lempe‰‰n.
+On s‰veys h‰ll‰ ja suopeus liian suuri,
+h‰n peitt‰‰ teilt' ois tahtonut kaiken t‰‰n;
+mut julkeutt' en min‰ moista suojella halaa;
+min‰ loukkaan teit‰, jos suuni sen teilt‰ salaa.
+
+ELMIRE.
+Sanon viel‰kin: ei turhista milloinkaan
+pid‰ miehellens‰ mieliharmia laittaa;
+ei tuollaiset toki kunniatamme haittaa,
+ja riitt‰‰, kun sen varjella voimme vaan.
+Se mieli on mulla; ettek‰ puhunut ois,
+jos sanani teihin lainkaan tehota vois.
+
+
+Kuudes kohtaus.
+
+    Orgon, Damis, Tartuffe.
+
+ORGON.
+Mit‰ kuulen? Taivas! Se totta ei olla saata!
+
+TARTUFFE.
+On, veljeni, on, olen heittiˆ viheli‰inen,
+olen kurja syntinen, pahuutta kukkurap‰inen,
+pahin rikollinen, joka kuunaan myrkytti maata.
+Vain rikosta, riettautt' on minun eloni retki,
+vain synnin saastaa sen joka ainoa hetki;
+ja saattaakseen syv‰t syyni nyt rangaistukseen
+minut taivas on asettanut t‰h‰n alennukseen.
+Niin suurt' ei rikosta voida syykseni tyˆnt‰‰,
+ettei sit‰ tuntoni nˆyr‰sti tahtois myˆnt‰‰.
+Kaikk' uskokaa, mit‰ kuulitte, armotonna
+pois ajakaa vihan ansainnut, kurja konna.
+Niin suurta h‰v‰istyst‰ en saada vois,
+ett' enemp‰‰ vikap‰‰ min‰ viel' en ois.
+
+ORGON (pojalleen),
+Ah, petturi, vai sin‰ moisella panettelulla
+h‰nen puhtaan hyveens‰ kimppuun rohkenet tulla!
+
+DAMIS.
+Mit‰? Siis tuon ulkokullatun viekkaus uusi
+saa teid‰t taas...
+
+ORGON.
+                   Pid‰, kirottu vintiˆ, suusi!
+
+TARTUFFE.
+H‰nen suokaa puhua, syyt‰tte h‰nt‰ v‰‰rin;
+paras on, kun h‰nt‰ nyt uskotte. Kuinka noin
+mua syytˆsten keskell‰ suositte ylen m‰‰rin?
+Mist' oikein tied‰tte, mit‰ m‰ tehd‰ voin?
+Te, kallis veljeni, uskotte ulkopintaan,
+mut ulkohurskaus ties mit‰ k‰tkee rintaan.
+Ei, ei; n‰kˆ pett‰‰; luulonne harhaan kulki;
+ah, en ole se, miks uskotte, kaikkea muuta.
+Mua hurskaaks sanoo maailma yht‰ suuta,
+ihan kelvoton vaikk' olen, jos toden puhuu julki.
+    (K‰‰ntyen Damis'hin).
+Niin, poikani, soimatkaa mua petturiksi
+ja varkaaksi, murhaajaksi ja vaikka miksi,
+nimet niit‰ kauheammat jos keksitte viel‰,
+ne kaikk' ovat oikeutettuja, niit' en kiell‰.
+Min‰ polvillani sen herjan ja pilkan sied‰n,
+pahall' el‰m‰ll‰ sen ansainneeni ma tied‰n.
+
+ORGON (Tartuffelle).
+T‰m‰ on jo liikaa.
+    (Pojalleen.)
+                   Jo kadu, jos koskaan kadut,
+sin‰ ilkiˆ!
+
+DAMIS.
+            Siis te uskotte moiset sadut...
+
+ORGON (nostaa ylˆs Tartuffen).
+Vait, hirtehinen! Veli, nouskaa, oh, sallikaahan!
+    (Pojalleen.)
+Sin‰ kurja!
+
+DAMIS.
+            H‰n siis...
+
+ORGON.
+                        Vait!
+
+DAMIS.
+                              Pit‰iskˆ moista n‰hden...
+
+ORGON.
+Sana viel‰, niin sinut isken m‰s‰ksi maahan.
+
+TARTUFFE.
+Ei, veljeni, ‰lk‰‰ kiihtykˆ. Herran t‰hden!
+Halull' ennen k‰rsin piinan ma pahimmankin,
+kuin h‰lle pienint‰k‰‰n min‰ haittaa hankin.
+
+ORGON (pojalleen).
+Sin‰ kiitt‰m‰tˆn!
+
+TARTUFFE.
+                  T‰h‰n polvistuin min‰ anon
+teilt' armoa h‰lle...
+
+
+ORGON (heitt‰ytyen myˆs polvilleen ja syleillen Tartuffe‰).
+                      Ah, mit‰ m‰ en‰‰ sanon!
+    (Pojalleen.)
+Sit‰ hyvyytt‰, hulttio, n‰‰tkˆ!
+
+DAMIS.
+                                Mut...
+
+ORGON.
+                                       Vait!
+
+DAMIS.
+                                             Min‰.
+
+ORGON.
+                                                   Vait!
+Sin‰ v‰ijyt h‰nt‰, sen tied‰n ja syyt‰ hait.
+Te kaikki vihaatte h‰nt‰, ja liittoon yhtyy
+oma vaimo, lapset, palvelijat, jott' ois
+tuon hurskaan pakko luopua luotani pois;
+sit‰ varten rumimpaankin he keinoon ryhtyy.
+Mut h‰‰t‰‰ koittakoot h‰net vehkeill‰‰n,
+sit‰ v‰hemmin h‰net lasken ma l‰htem‰‰n;
+nyt tytt‰reni koht' ik‰‰n m‰ h‰lle naitan
+ja niin koko perheeni korskeat juonet taitan.
+
+DAMIS.
+H‰net pakottaa siis aiotte tuolle?
+
+ORGON.
+                                   Niin,
+jo t‰n‰‰n, jos saa sapen teiss‰ se kuohuksiin.
+Mua ette peijaa. Oh, min‰ aion n‰ytt‰‰,
+ket‰ kuulla saatte, ken t‰‰ll‰ k‰sky‰ k‰ytt‰‰.
+Saat hyvitt‰‰, sin‰ hylky, ne herjas heti,
+h‰nen lankeet jalkoihinsa ja anteeksi pyyd‰t.
+
+DAMIS.
+Min‰! Tuoltako konnalta, taas joka teit‰ veti...
+
+ORGON.
+Sin‰, vaivainen, vastustat, yh‰ herjaa syyd‰t!
+Ah, keppini, keppini!
+    (Tartuffelle.)
+                      ƒlk‰‰ koittako est‰‰.
+    (Damis'lle).
+Pois kattoni alta! Tiehesi ilman ten‰‰!
+Ja takaisin ‰l‰ uskalla tulla en‰‰!
+
+DAMIS.
+Menen kyll‰, mutta...
+
+ORGON.
+                      No, kauanko vartoa kest‰‰!
+Saat l‰hte‰, lurjus, perinnˆtˆnn‰, se tied‰,
+ja kiroukseni myˆt‰si viel‰ vied‰.
+
+
+Seitsem‰s kohtaus.
+
+    Orgon, Tartuffe.
+
+ORGON.
+Noin miest‰ pyh‰‰ loukata!
+
+TARTUFFE.
+                           Tuskaa t‰t‰,
+oi taivaan armo, syyks ‰l‰ h‰lle j‰t‰!
+    (Orgonille.)
+Jos murheeni mittaisitte, kun moista he syyt‰‰,
+mua kristiveljeni silmiss‰ mustata pyyt‰‰...
+
+ORGON.
+Ah!
+
+TARTUFFE.
+    Ilkimielt‰ kun vain sit‰ aattelenkin,
+on niinkuin k‰rsisin piinaa kidutuspenkin...
+Min‰ kauhistun... niin syd‰nt‰ kouristaa...
+se on surmaksi mulle, en sanaa suustani saa.
+
+ORGON (juoksee itkussasuin ovelle, josta h‰n on karkottanut poikansa).
+Sin‰ roisto! Kadunpa, ett‰ s‰ v‰ltit kurin.
+    (Tartuffelle.)
+Veli kallis, tyyntyk‰‰, paha mieli pois!
+
+TARTUFFE.
+T‰m‰ hirve‰ riita jospa jo laata vois!
+kai parasta on, veli kallis, ett‰ m‰ l‰hden.
+
+ORGON.
+Mit‰ puhuttekaan?
+
+TARTUFFE.
+                  Niin, muut mua vihaa t‰‰ll‰
+ja ep‰ilem‰‰n mua teid‰t he saada kokee.
+
+ORGON.
+Oh, tyhj‰‰! Mun n‰ittekˆ kuulevan, mit‰ he hokee?
+
+TARTUFFE.
+Se heill' on varmaan vastakin kielen p‰‰ll‰;
+ja juorut nuo joskohta nyt mielenne torjuu,
+ne toisella kertaa uskotte kukaties.
+
+ORGON.
+En koskaan.
+
+TARTUFFE.
+            Veljeni, ah, mik‰ est‰is! Mies
+oman vaimonsa uskotellessa v‰leen horjuu.
+
+ORGON.
+Ei, ei!
+
+TARTUFFE.
+        Minun t‰ytyy. Kun talo on minusta vapaa,
+he eiv‰t vainota voi mua t‰ll‰ tapaa.
+
+ORGON.
+Ei, ei, te j‰‰tte -- elosta luovun ennen!
+
+TARTUFFE.
+Siis t‰ytyy, nˆyryytyksien tiet‰ mennen,
+mun suostua, jollette...
+
+ORGON.
+                         Oh!
+
+TARTUFFE.
+                             No, ei en‰‰ siit‰!
+Koen katsoa, ettette palkaksi pahaa niit‰.
+Hyv‰ maine on arka; ja yst‰v‰n‰nne velkaa
+olen v‰ltt‰m‰‰n joka varjoa, juorun kielt‰:
+min‰ kartan puolisoanne ja v‰istyn tielt‰...
+
+ORGON.
+Ei, nyt sit‰ ahkerammin te seurustelkaa.
+T‰m‰ maailma raivostuttaa on riemuni parhain;
+se n‰hkˆˆn teid‰t yhdess‰ myˆh‰‰n ja varhain.
+Ja jotta sit' oikein iskisin vasten suuta,
+teen perillisekseni teid‰t, en ket‰‰n muuta;
+min‰ kaiken omaisuuteni teille siirr‰n
+ja laillisen lahjakirjan koht'ik‰‰n piirr‰n.
+Hyv‰, kelpo yst‰v‰, tuleva v‰vyni mulle
+on rakkaampi is‰‰, ‰iti‰, vaimoa, lasta.
+Ei hylj‰tyksi kai t‰m‰ tarjous tulle?
+
+TARTUFFE.
+Is‰n tahto ain' olkoon kaikessa nyt ja vasta!
+
+ORGON.
+Mies parka! Nyt pian valmiiks se kirja vaan;
+ja kateus j‰‰kˆˆn harmiinsa halkeamaan!
+
+
+
+
+NELJƒS NƒYT÷S.
+
+
+Ensimm‰inen kohtaus.
+
+    ClÈante, Tartuffe.
+
+CL…ANTE.
+Niin, ei ole ihmist‰, joka ei siit‰ puhu,
+ja kunniaksi ei ole teille se huhu;
+ja osuu hyvin, kun t‰ss‰ nyt teid‰t tapaan
+ja menettelyst‰nne saan sanan virkkaa vapaan.
+Tuo asia sikseen, olkoonpa n‰in tai noin.
+Se saattaa pahempi olla kuin luulla voin.
+Mut vaikka Damis ois tuottanut ik‰vyytt‰,
+ja teit‰ syytett‰is ihan ilman syytt‰,
+niin eikˆ kristityn tyˆ ole anteeks antaa,
+ei syd‰mess‰‰n vihaa ja kostoa kantaa?
+Ja voitteko sallia, ett' is‰n luota ois
+noin karkoitettu siis oma poika pois?
+Sanon viel‰ kerran ja saatte sen suoraan kuulla:
+sit‰ inhoksuu isot, pienetkin yhdell‰ suulla.
+Ja jos mua uskotte, sen hyv‰ks saatatte j‰lleen,
+t‰t‰ riitaa ette ‰rsyt‰ ‰‰rimm‰lleen,
+vaan Jumalalle vihanne uhraatte varmaan
+ja pojalle avaatte taas is‰n mielen armaan.
+
+TARTUFFE.
+Ah niin! Sen kaikesta syd‰mest‰ni soisin.
+Min‰ mit‰‰n h‰lle en viaksi tahdo panna,
+kaikk' annan anteeksi, mist‰‰n en kaunaa kanna,
+h‰nen palvelijansa parhaani mukaan oisin.
+Mut taivas ei sit‰ salli, se toisin s‰‰t‰‰;
+ja jos h‰n palata saa, h‰n pois minut h‰‰t‰‰.
+Tuo verraton solvaus katkaissut kaikk' on suhteet;
+nyt sovinto nostais vain pahat huudot ja nuhteet.
+Ties Herra, mit' ihmiset luulla jo alkaiskaan;
+pian kuuluis, ett' edun vuoksi ma suostuin vaan,
+muka vastapuoltani, tiet‰in tehneeni v‰‰rin,
+koen teeskennellen nyt helli‰ ylen m‰‰rin,
+muka ett‰ m‰ pelk‰‰n h‰nt‰ ja liehakoin
+ja umpeen syytt‰j‰n suun koen lahjoa noin.
+
+CL…ANTE.
+Te mielitte syˆtt‰‰ pelkki‰ tekosyit‰,
+kovin estelynne nuo ovat etsityit‰.
+Teit' ottanut taivas ei lie edunvalvojakseen;
+se muit' ei tarvitse syyllist‰ rangaistakseen.
+Te heitt‰k‰‰ siis kostonne Herran huomaan,
+joka v‰‰ryydet on k‰skenyt anteeks suomaan,
+v‰h‰t v‰litt‰k‰‰, milt' ihmisist‰ se n‰ytt‰‰,
+kun taivaan korkeita k‰skyj‰ koette t‰ytt‰‰.
+Vai huoliko siit‰, mit' ihmiset luulla voivat,
+siis estym‰‰n teot oikeat sais ja oivat?
+Ei, taivaan tahto ain' olkoon ohjeena meille;
+muut huolet ‰lkˆˆt vietelkˆ harhateille.
+
+TARTUFFE.
+Niin, sanoinhan jo, ett' anteeksi h‰lle suon,
+kuten k‰skee taivas; mutta ei vaadi se multa,
+vast'ik‰‰n niin h‰v‰istylt‰ ja herjatulta,
+ett' el‰isin kera kaunankantajan tuon.
+
+CL…ANTE.
+Ja vaatiiko taivas mielt‰ niin taipuvaista
+noin kuulemaan is‰n oikkua kohta vaan,
+noin omaisuuden lahjaksi ottamaan,
+johon teill‰ ei oikeutt' ole mink‰‰nlaista?
+
+TARTUFFE.
+Joka tuntee minut, se tiet‰‰ ja voi sen taata,
+ett' ei oma etuni syyn‰ t‰ss' olla saata.
+Mua kiehdo ei maailman tavara eik‰ kulta,
+sen pett‰v‰ loisto ei sokaise silmi‰ multa.
+Ja jos min‰ suostun, jos otan lahjan vastaan,
+jonk' yst‰v‰ suo, siks suostun ma ainoastaan,
+toden tunnustaakseni, ett‰ on pelko mulla
+sen voivan huostaan huonojen k‰tten tulla,
+jotk' ehk‰ p‰‰sty‰ns‰ sen hallitukseen
+panis maailmassa sen pahaan ja turmelukseen,
+sill' eiv‰t, kuin min‰ aion, taivasta palvois
+ja oman l‰himm‰isens‰ parasta valvois.
+
+CL…ANTE.
+Tuo tunnontarkka pelko te pankaa pois,
+jota oikean perij‰n syy hyv‰ syytt‰‰ ois.
+Se toiselle j‰tt‰k‰‰, mik' on toisen vastuu;
+omall' uhallaan h‰n omansa hoitoon astuu.
+Paremp', ett‰ sit' itse h‰n vaikkapa v‰‰rin k‰ytt‰‰,
+kuin jos vois teit‰ sen rosvoks sormella n‰ytt‰‰.
+Sit‰ kummeksun vain, kuink' olette oikeastaan
+sen tarjouksen kehdannut ottaa vastaan.
+Tosi hurskaus ei kai sellaista k‰sky‰ tied‰,
+ett' osansa perilliselt‰ pit‰‰ vied‰?
+Ja jos sen on k‰sky, ett' yhdess' ei el‰‰ sovi,
+jos Damiin ja teid‰n v‰lill' on oleva ovi,
+niin eikˆh‰n kunnon miehelle oikeint' ois
+oman arvonne vuoksi siirty‰ syrj‰‰n ennen,
+ei sallia, ett' is‰ mielettˆmyyksiin mennen
+oman poikansa teid‰n t‰htenne ajaa pois.
+Niin tekisi mies, jok' ei suoraa v‰‰r‰ksi vello,
+se uskokaa...
+
+TARTUFFE.
+              On puoli nelj‰ jo kello;
+mull' on er‰s hurskas toimitus, jonka t‰hden,
+jos suvaitsette, nyt huoneeseeni ma l‰hden.
+
+CL…ANTE (yksin).
+Ah!
+
+
+Toinen kohtaus.
+
+    Elmire, Mariane, ClÈante, Dorine.
+
+DORINE (ClÈantelle).
+    Pit‰k‰‰ tekin kanssamme neidin puolta.
+H‰n on menehtym‰ss‰, ei mik‰‰n huojenna huolta;
+t‰n‰ iltana kihlaus -- niin is‰ p‰‰tt‰‰ keksi,
+v‰h‰ll' ettei saa se h‰nt' ep‰toivoiseksi.
+Tuoll' on is‰ itse. Nyt yhdess‰ ponnistakaamme,
+ett' estym‰‰n tuon turmio-aikeen saamme
+v‰kivetoon taikka keinolla kekseli‰‰ll‰.
+
+
+Kolmas kohtaus.
+
+    Orgon, Elmire, Mariane, ClÈante, Dorine.
+
+ORGON.
+Oh! Hauska n‰hd‰ teid‰t yhdess‰ t‰‰ll‰.
+    (Marianelle.)
+Kas t‰st‰, t‰st' ilo ihana sulle k‰kee.
+Sin‰ arvaat kai, mit‰ tiet‰‰ sopimus t‰‰.
+
+MARIANE (polvillaan Orgonin edess‰).
+Is‰ kulta, nimess‰ taivaan, mi tuskani n‰kee,
+ja kautta kaiken, mi mielt‰nne hellytt‰‰,
+v‰h‰n lievitt‰k‰‰ is‰nvaltanne vaatimusta,
+minut p‰‰st‰k‰‰ t‰m‰n tahtonne tottelusta.
+Moist' ‰lk‰‰ lapsenne tunnolle panko pulmaa,
+ett' taivaalle nurkuisin min‰ mielt‰nne julmaa;
+mua s‰‰lik‰‰, ett' elo, jonk' annoitte mulle
+ei murtavaksi murheen taakaksi tulle.
+Jos turha on tuo sulo toive, jos ette sallis
+mun tulla sen omaksi, joka on mulle kallis,
+niin polvistuin min‰ pyyd‰n ja vannotan teit‰,
+mua ettette sille, jot' inhoan, uhriksi heit‰
+ep‰toivoon hukkumaan, johon joutua voin,
+is‰nvaltaa ankarinta jos k‰yt‰tte noin.
+
+ORGON (tuntien heltyv‰ns‰).
+Syd‰n lujaksi! Pois is‰n heikkous, suotta surku!
+
+MARIANE.
+Rakas teille h‰n olkoon, mun siit‰ ei nouse nurku;
+omaks saakoon rakkautenne ja rikkautenne,
+mun osani pankaa myˆskin, jos muu ei riit‰,
+min‰ annan sen ilomielin ja luovun siit‰,
+oma itseni kunhan vain sen ei myˆt‰ menne.
+Mun luostarin hiljaisuudessa viett‰‰ suokaa,
+mi viel' elon murhep‰ivi‰ mulla lie.
+
+ORGON.
+Vai luostariin? Heti sinnekˆ mieles huokaa,
+kun ei is‰ mielitiettysi viereen vie!
+Ylˆs siit‰! Mit' enemm‰n mielesi sotii vastaan,
+sit‰ suurempi ansio sulle se ainoastaan.
+Halut aistien kuoleta avioliitolla t‰ll‰,
+mua suott' ‰l‰ en‰‰ kiusaa sit' itkem‰ll‰.
+
+DORINE.
+Mut miksi...
+
+ORGON.
+             Vait! Kera laistenne piesk‰‰ suuta,
+vaan nyt kita kiinni ja mukisematta muuta.
+
+CL…ANTE.
+Jos sallitte neuvoa jollain lailla...
+
+ORGON.
+Nuo neuvonne, lanko, ain' ovat vertaa vailla,
+niin j‰rkeviksi, niin oiviks en mit‰‰n kiit‰,
+vaan suvainnette, ett‰ en seuraa niit‰.
+
+ELMIRE.
+T‰m‰n kaiken n‰hden mit' en‰‰ ma virkkaa voinen?
+Tuo sokeutenne on todella suurenmoinen.
+Kyll' on h‰n paulonut teid‰t, kun teit' ei mik‰‰n
+saa uskomaan, mik‰ kohtaus t‰‰ll' oli ik‰‰n.
+
+ORGON.
+Olen palvelijanne! Uskon, mit' uskoa siet‰‰.
+Pojan lurjusta puollatte tuota, sen kaikki tiet‰‰,
+siks ette paljastaa sit‰ juonta raski,
+joll' ansaan h‰n tuon mies-paran saavansa laski.
+Kovin olitte tyyni, jott' uskoa teit‰ voisin;
+se teit' ois kuohuttanut toki aivan toisin.
+
+ELMIRE.
+Heti hiuksiaanko raivoten pit‰is raastaa,
+jos lemmest‰‰n joku joutava narri haastaa?
+Ja kunniatamme eikˆ suojele muu
+kuin pyˆriv‰t silm‰t ja kiljuvan kiivas suu?
+Min‰ nauran vain, min‰, moista liehij‰-parkaa,
+mua sellaisist' ei huvita huuto ja h‰ly.
+On mieleeni s‰ve‰ k‰ytˆstaito ja -‰ly,
+ei siveys-fuuriat, kunniataan jotk' arkaa
+heti puolustaa muka kynsin ja hampain kokee,
+vie silm‰t p‰‰st‰, jos ken sanan liikaa hokee.
+Mua varjele, taivas, siveydest‰ siit‰!
+En moista raivotar-s‰‰dyllisyytt‰ kiit‰,
+ja torjuva kylmyys tunkeilijalle, ma luulen,
+voi antaa yht‰ varmasti l‰htˆtuulen.
+
+ORGON.
+Min‰ asian tied‰n, en niin hevin ansaan menne.
+
+ELMIRE.
+Sanon viel‰ kerran: on verraton sokeutenne.
+Mut viel‰kˆh‰n ep‰uskoonne silti j‰‰tte,
+jos laitan, ett' omin silmin sen todeksi n‰‰tte?
+
+ORGON.
+N‰en!
+
+ELMIRE.
+      Niin.
+
+ORGON.
+            Oh, loruja!
+
+ELMIRE.
+                        Jospa on keino mulla
+se teille n‰ytt‰‰ t‰ydell‰ valaisulla...
+
+ORGON.
+Hˆlynpˆly‰!
+
+ELMIRE.
+            Auttamaton! Hyv‰! Saatte vaikka
+mit‰ tahansa luulonanne te meist‰ luulla.
+Mut ent‰p‰ jos mull' ois joku tietty paikka,
+jost' itse voitte kaikki te n‰hd‰ ja kuulla,
+mit‰ silloin hurskaastanne te virkkanette?
+
+ORGON.
+Niin, silloin, silloin... En mit‰‰n, sill‰ sit' ette
+saa tapahtumaan.
+
+ELMIRE.
+                 On aika jo houreen laata,
+koht' ette sanaani valheeksi v‰itt‰‰ saata.
+On tarpeen, jos suvaitsette, nyt laittaa, jotta
+sen n‰ette itse, onko puhuttu totta.
+
+ORGON.
+Hyv‰! Siihen sanaan! Saatte keinonne k‰ytt‰‰.
+Soma n‰hd‰, kuinkahan sananne voitte t‰ytt‰‰.
+
+ELMIRE (Dorinelle).
+H‰net t‰nne kutsukaa.
+
+DORINE (Elmirelle).
+                      H‰n on ovela mies,
+h‰n aikomuksenne arvata voi kenties.
+
+ELMIRE (Dorinelle).
+Ei, ihailijan saa peijatuks ilman vaivaa,
+ja itserakkaus kyll' oman kuoppansa kaivaa.
+H‰net noutakaa.
+    (ClÈantelle ja Marianelle.)
+Ja te hetkeksi syrj‰‰n k‰yk‰‰.
+
+
+Nelj‰s kohtaus.
+
+    Elmire, Orgon.
+
+ELMIRE.
+T‰h‰n pˆyt‰ t‰‰, ja sen alle te kyyrist‰yk‰‰.
+
+ORGON.
+Mit‰?
+
+ELMIRE.
+      Tottahan teid‰t k‰tke‰ t‰ytyy kait.
+
+ORGON.
+Tuon pˆyd‰nkˆ alle?
+
+ELMIRE.
+                    Oh, k‰yk‰‰ ja olkaa vait.
+On p‰‰ss‰ni tuuma; n‰‰ttep‰, laskenko v‰‰rin.
+Pian sinne nyt vaan, ja varanne pit‰k‰‰,
+teit' ett‰ h‰n lainkaan siell‰ ei kuule, ei n‰‰.
+
+ORGON.
+Olen myˆntyv‰inen, ma sen sanon, ylen m‰‰rin,
+mut parhaanne j‰lkeen nyt myˆs kuje selvitelk‰‰.
+
+ELMIRE.
+Sen en min‰ moitteen aihetta antavan pelk‰‰.
+    (Orgonille, joka on pˆyd‰n alla.)
+Niin, nyt tulen puhelemaan min‰ oudolla tapaa,
+mut ‰lkˆˆn silti se pahastuttako teit‰.
+Mull' olkoon, jos mit‰ virkkanen, valta vapaa;
+min‰ silm‰nne avaan, en sanaani sikseen heit‰.
+Sen vuoksi nyt mielistelyit‰ mun t‰ytyy k‰ytt‰‰,
+jott' ulkokullattu tuo tosihahmonsa n‰ytt‰‰,
+h‰nen himoansa rietasta imarrella,
+tuon julkean sallia vapaasti tungetella.
+H‰net teille kun paljastaakseni vain nyt taipuu
+muka mieleni kuulemaan h‰nen lempe‰‰n,
+niin voin heti laata, kun harhanne teilt‰ haipuu,
+eik' eemm‰s h‰n p‰‰se, kuin laskette p‰‰sem‰‰n.
+H‰nen hurjan kiihkonsa saatte te itse suistaa,
+kun asia teist‰ liian pitk‰lle luistaa,
+ja s‰‰st‰‰ vaimonne piinasta pitemm‰st‰,
+heti kohta kun itsens‰ ilmaissut vain on konna.
+Oma valtanne valvoa, ett‰ nyt opitte t‰st‰
+a... vaiti! H‰n tulee. Nyt hiljaa ja hiiskumatonna!
+
+
+Viides kohtaus.
+
+    Tartuffe, Elmire, Orgon (pˆyd‰n alla).
+
+TARTUFFE.
+Sain puheisille luoksenne kutsun tulla.
+
+ELMIRE.
+Niin, salaisuuksia, tietk‰‰s, on teille mulla.
+Mut sulkekaa ovi ensin ja katsokaa,
+meit' ettei kukaan kuulla ja h‰irit‰ saa.
+    (Tartuffe k‰y sulkemassa oven ja tulee takaisin.)
+Kas, sellaisen kohtauksen, kuin t‰‰ll' oli ik‰‰n,
+me emme liioin toistuvan toivo kai.
+Ei pahemmin ois saattanut sattua mik‰‰n.
+Damis minut teist‰ niin kovin h‰t‰‰n sai;
+ja n‰itte, kuink' aikeestaan h‰nt' estell‰ tahdoin,
+h‰nen mielens‰ kuohua hillit‰, mink‰ mahdoin.
+Niin h‰mmennyin tosin, etten keksinyt heti
+vain jyrk‰sti kielt‰‰, mit‰ h‰n syyksenne veti;
+mut n‰in k‰vi paljoa paremmin, kiitos taivaan,
+sit‰ turvallisemmaksi kaikki se meille sai vaan.
+Heti vakaa arvonne torjui sen myrskyn pois,
+eik' uskoa pahaa mieheni teist‰ vois.
+H‰n tahtoo oikein harmiksi juorun hampaan
+nyt meid‰t seurusteluun sit‰ tuttavampaan,
+ja siksi mun sopii nuhteetta j‰‰d‰ t‰nne
+ja n‰in ihan kahden kesken kanssanne olla
+ja avata syd‰n, mi kuunnellut lempe‰nne
+on kenties liian herk‰ll‰ suosiolla.
+
+TARTUFFE.
+Mun vaikea ymm‰rt‰‰ on puhetta moista;
+hyv‰ rouva, te ‰sken haastoitte aivan toista.
+
+ELMIRE.
+Kuink' onkaan teille naissyd‰n outo ihan,
+jos ensi estely teiss‰ on nostanut vihan!
+Ja ettekˆ oivalla siis, mik‰ oikeastaan
+on mieli, kun se niin heikosti sotii vastaan?
+Kas, ainahan torjuu kainoutemme arka,
+kun hell‰n tunteen pauloiss' on syd‰n parka.
+Jos syttyykin se, jos kuinka syv‰sti lempii,
+sit‰ ilmaista silti se ujostelee ja empii.
+Niin, ensiks estelemme, mut ilme n‰ytt‰‰,
+ett' ennen pitk‰‰ vastustelumme vaipuu;
+suu kunnian vuoksi kielt‰‰, mut k‰skee kaipuu,
+ja kieltely moinen on lupaus kaikki t‰ytt‰‰.
+T‰m‰ tunnustus, se on totta, on varsin vapaa,
+ja paremmin kainouttamme mun t‰ytyis kaita,
+vaan kun nyt kerran on lausuttu, kuink' on laita,
+Damis'ta oisinko hillinnyt sill‰ tapaa,
+niin oisinko kuunnellut min‰ malttavasti
+koko lemmenliehityst‰nne loppuun asti
+ja ottanut asian, kuin minun ottavan n‰itte,
+jos vaarattomaksi te syd‰melleni j‰itte?
+Ja teit‰ kun itse vaadin ma luopumaan
+tuost' avioliitosta, jota nyt aiotaan,
+mit‰ ilmaisee se into, jos ei sit‰ juuri,
+ett' olentoonne on kiintymys liian suuri,
+ja ett‰ sen jakoon suostua tuska ois,
+ihan yksin‰‰n jonk' omistavansa sois?
+
+TARTUFFE.
+Ah, ihanintakin ihanampi on varmaan
+sanat moiset kuulla huulilta naisen armaan;
+l‰pi sieluni pitkin s‰ikein meten‰ mennen
+ne hurmaa tuo iki-tuntematonta ennen.
+Ylin m‰‰r‰np‰‰ mull' olla on mieliksenne
+ja onni ja autuus tottelu toivehienne;
+mut sallinette, jos uskallan onnea tuota
+v‰h‰n ep‰ell‰, jos siihen en oikein luota.
+Se ehk‰ on ansa vain sit‰ varten, jotta
+tuost' avioliitto-aikeesta ei tulis totta;
+ja jos sen teille vapaasti virkkaa saan,
+niin sananne armaat uskon ma silloin vaan,
+kun suosionne tuo, jota sieluni janoo,
+suo t‰ydemm‰n takeen, ett‰ ne totta sanoo,
+ja vahvistuu minuss' usko varma ja vakaa,
+ett' yst‰vyytenne saan, en tuult' aja takaa.
+
+ELMIRE (yskitty‰‰n merkiksi miehelleen).
+Te noinko tyhjent‰isitte nopeasti
+siis syd‰men hellyyden heti pohjaan asti?
+Jos suurin surmin sen tunnustaneeksi sai,
+se eikˆ riit‰ jo teille? Oh, kyll‰ kai!
+Te ennen lainkaan tyytyv‰n ette n‰yt‰,
+jos toivoanne ei viimeisint‰kin t‰yt‰.
+
+TARTUFFE.
+Mit‰ v‰hemm‰n ansaittu onni, sit' enemm‰n siet‰‰
+sit‰ ep‰ill‰, sanoiksi vain sanat koreat tiet‰‰.
+Ylen suurt' on onnea vaikea todeksi luulla,
+vain kokemalla sen uskoo, ei mill‰‰n muulla.
+Ja mun, jok' en ansaitse suosiotanne lainkaan,
+ei toivoa tohdi sit' uneni uskaliainkaan,
+enk' usko mit‰‰n, ennenkuin tositˆin
+minut vakuutatte siit‰, mit' ik‰vˆin.
+
+ELMIRE.
+Kuink' onkaan lempenne hirmuvaltias julma!
+Ja kuink' on vaikea mulle sen tuoma pulma!
+Miten ankara syd‰melle sen sortovalta,
+miten hillittˆm‰sti se vaatii, ei vartoa malta!
+Siis onko aivan mahdoton torjua teit‰,
+ja ettekˆ siis edes henk‰isyaikaa heit‰?
+Noin armotta vaatia -- onko nyt laitaa moinen --
+heti ett‰ vaan joka toiveenne pit‰is t‰ytt‰‰;
+sit‰, ett' on teit‰ kohtaan niin heikko toinen,
+noin tuiki tunnottomasti v‰‰rin k‰ytt‰‰!
+
+TARTUFFE.
+Mut ihailuuni jos katsotte suosiolla,
+miks sitten selv‰‰n osoittamatta sit' olla?
+
+ELMIRE.
+Mut eikˆ se ole synti, siit' eikˆ paina
+mua taivaan tuomio, josta te puhutte aina?
+
+TARTUFFE.
+Jos ei ole tiell‰ muuta kuin tuomiot taivaan,
+pois moiset vastukset min‰ v‰leen raivaan;
+suott' ‰lk‰‰ syd‰nt‰nne te estelkˆ niill‰.
+
+ELMIRE.
+Mut taivaan rangaistusta siis voiko piill‰?
+
+TARTUFFE.
+Nuo joutavat arvelut huoleti voitte h‰‰t‰‰,
+mun suokaa teille neuvoa mill‰ tavoin.
+Tosin kyll‰ er‰it‰ kieltoja taivas s‰‰t‰‰,
+mut sovitteluun sen kanssa on portti avoin.
+On oikein, ett' eri tarpeissa perehdymme
+me avartamaan omantuntomme ahtautta
+ja sovittamaan, jos rikomme, erehdymme,
+teon sill‰, ett' aivoitus t‰ynn‰ on puhtautta.
+Pian salaisuuksista n‰ist‰ on syvempi selko
+teill' oleva, suokaa mun ohjata ainoastaan.
+Mun toivoni tyydytt‰k‰‰, pois tyhj‰ pelko;
+otan itse p‰‰lleni syyn ja kaikesta vastaan.
+    (Elmire yskii kovemmin.)
+Te yskitte kovin.
+
+ELMIRE.
+                  Niin, ihan hengen salpaa!
+
+TARTUFFE.
+V‰h‰n lakritsia, jos sallitte apua halpaa!
+
+ELMIRE.
+Se on sitke‰ ysk‰, jo ollut jos kuinka pitk‰‰n,
+siin' eiv‰t auta lakritsit eik‰ mitk‰‰n.
+
+TARTUFFE.
+Sep‰ ik‰v‰ seikka.
+
+ELMIRE.
+                   On, ettei sanoa saata.
+
+TARTUFFE.
+Niin, turhan arkailunne te suokaa laata.
+Syvin vait'olo salaisuutemme vartioi;
+ja pahaa on vain pahan huuto, mi nousta voi,
+syy vain se, jos antaa juorulle hammaspalaa;
+ja synti‰ ei ole synti, mi tehd‰‰n salaa.
+
+ELMIRE (viel‰ kerran yskien ja koputtaen pˆyt‰‰n).
+No niin, ei auta vastustella, sen huomaan;
+mun t‰ytyy kaikki suostua teille suomaan;
+en tyydytetyksi saa min‰ mill‰‰n muulla,
+mua v‰hemm‰ll' ei uskota eik‰ kuulla.
+Tosin ei ole hauskaa joutua sinne saakka,
+ja askel t‰‰ on vasten mielt‰ni aivan;
+mut panemalla kun pannaan se pakko ja taakka,
+kun vakuuttaissani vain n‰en turhan vaivan,
+kun sitovammin on tarvis se toteen n‰ytt‰‰,
+niin t‰ytyy suostua kai ja toivot t‰ytt‰‰.
+Jos siin‰ v‰‰rin teen min‰ jollain tapaa,
+sit‰ pahempi sille, ken pakotti suostumaan;
+min‰ ainakin olen kaikesta syyst‰ vapaa.
+
+TARTUFFE.
+Niin, niin, min‰ vastaan siit‰, ja pohjaltaan...
+
+ELMIRE.
+Oven taa v‰h‰n k‰yk‰‰ tuonne ja katsokaahan,
+ettei ole siell‰ mieheni vain kenties.
+
+TARTUFFE.
+Mit‰ h‰nest‰ huolitte, joka -- sen sanoa saahan --
+on nen‰st‰ vedett‰v‰ksi oikea mies!
+H‰n yst‰vyytt‰mme suosii, on ylpe‰ siit‰,
+h‰n sais omin silmin n‰hd‰, eik' uskois niit‰.
+
+ELMIRE.
+Voi olla, mut menk‰‰ silti nyt hetkiseksi
+ja silm‰ilk‰‰, siell' ettekˆ ket‰‰n keksi.
+
+
+Kuudes kohtaus.
+
+    Orgon, Elmire.
+
+ORGON (tullen pˆyd‰n alta).
+On kauhea konna se, ei sit‰ kielt‰‰ maksa.
+Min‰ menehdyn, min‰ en t‰t‰ kest‰‰ jaksa.
+
+ELMIRE.
+Mit‰? Niin pian poisko? Nyt ‰lk‰‰ t‰rvelkˆ t‰t‰.
+Alas sukkelaan! T‰m' on kesken. Mi teill' on h‰t‰?
+H‰nen suokaa selvin n‰yttein se todeksi tuottaa;
+ei pelkk‰‰n arveluun pid‰ koskaan luottaa.
+
+ORGON.
+Ei n‰hty h‰ijymp‰‰ ole hornanluomaa.
+
+ELMIRE.
+Koht' ‰lk‰‰ luuloa todeksi kuvitelko.
+Paras, ennenkuin uskotte, hankkia varma selko,
+ettette ehk‰ viel' erehtyneenne huomaa.
+
+    (Elmire asettaa Orgonin istumaan taaksensa.)
+
+
+Seitsem‰s kohtaus.
+
+    Tartuffe, Elmire, Orgon.
+
+TARTUFFE (Orgonia huomaamatta).
+Mua onni suosii yhtyen samaan juoneen.
+Siell' ei ole sieluakaan, jok' ainoan huoneen
+ma katsastin; ja nyt kaihoni ihanimman...
+
+    (Tartuffen tullessa avosylin Elmire‰ kohti h‰nt‰ syleill‰kseen
+    t‰m‰ v‰istyy syrj‰‰n ja Tartuffe huomaa Orgonin.)
+
+ORGON.
+Seis, mies! Kovin p‰‰st‰tte leimuun lempenne vimman.
+Syy hiukan hillit‰ ois sit‰ kuumaa tulta.
+Vai sellaisiinko hommiin se hurskas horjuu!
+Vai n‰inkˆ kiusauksia sielunne torjuu!
+Kas vaan, tyt‰r naida ja vaimo vietell‰ multa!
+En ensin uskonut, vaikk' omin korvin kuulin,
+vaan lopultakin min‰ muuttuvan nuotin luulin;
+mut todistukset n‰‰ kukaties jo riitt‰‰;
+min‰ tyydyn, enemmist‰ m‰ pyyd‰n kiitt‰‰.
+    (Tartuffelle).
+T‰t‰ en ole tehnyt mielell‰ haluisalla,
+minut siihen on pakotettu pakottamalla.
+
+TARTUFFE (Orgonille).
+Ja te uskotte, ett‰...
+
+ORGON.
+                       Lorunne s‰‰st‰‰ voitte.
+Pois t‰‰lt‰ nyt heti paikalla patikoitte!
+
+TARTUFFE.
+Min‰ aioin...
+
+ORGON.
+               Ei ole aika nyt suuta piest‰.
+Ulos ovesta! Menk‰‰ t‰st‰ jalkainne tiest‰!
+
+TARTUFFE.
+Te saatte menn‰, te, mokoma k‰skij‰ muka!
+pian n‰ht‰neen, kuka t‰‰ll' on is‰nt‰, kuka,
+ja k‰ykˆ p‰ins‰ noin halpamaisella tapaa,
+noin kurjin juonin kanssani riitaa nostaa,
+mua loukata onko ja herjata valta vapaa,
+vai voinko rangaista panettelun ja kostaa,
+kun taivasta h‰v‰ist‰‰n, ett' ehk‰p‰ h‰‰tyy
+nuo h‰‰t‰j‰t itse, kun tilin p‰iv‰ p‰‰tyy.
+
+
+Kahdeksas kohtaus.
+
+    Elmire, Orgon.
+
+ELMIRE.
+Mit‰ puhetta tuo? Mit‰ kummia kuulla sainkaan?
+
+ORGON.
+Se saa minut h‰mille eik‰ naurata lainkaan.
+
+ELMIRE.
+Miten niin?
+
+ORGON.
+            Tuo puhe mun tyhm‰sti tehneen n‰ytt‰‰;
+se onneton lahjoitus minut huolella t‰ytt‰‰.
+
+ELMIRE.
+Mit‰? Lahjoitus?
+
+ORGON.
+                 Niin, niin. Se ei muuksi muutu.
+Kunp' ei vaan huolta muutakin mulla ois!
+
+ELMIRE.
+Mit‰ sitten?
+
+ORGON.
+             Kyll' ehdit kuulla. Mut onkohan pois
+lipas muuan liikkunut? Muuta ei en‰‰ puutu!
+
+
+
+
+VIIDES NƒYT÷S.
+
+
+Ensimm‰inen kohtaus.
+
+    Orgon, ClÈante.
+
+CL…ANTE.
+Mihin kiire?
+
+ORGON.
+             Ah, tied‰nkˆ en‰‰?
+
+CL…ANTE.
+                                Minusta n‰hden
+on ensinn‰ tarpeen, ett' yhdess‰ aprikoimme,
+mit‰ asian auttamiseksi nyt tehd‰ voimme.
+
+ORGON.
+Mun pahin on olla juuri sen lippaan t‰hden;
+muu kaikk' ei niin mua huoleta kuin sen hukka.
+
+CL…ANTE.
+Sen sis‰llys kovin t‰rke‰ olla mahtoi.
+
+ORGON.
+Niin, talletus, jonk' Argas, yst‰v‰ rukka,
+mun taakseni salaisuutena uskoa tahtoi,
+paon hetkell‰ piilottaa luo yst‰v‰n paraan.
+Ne papereit' on, sanoi h‰n, joiden varaan
+h‰nen omaisuutensa, henkens' on uskallettu.
+
+CL…ANTE.
+Ja kuink' on vieraan k‰siin ne luovutettu?
+
+ORGON.
+Niist' alkoi ahdistaa mua tunnonvaivat
+ja turvaamaan tuon veijarin neuvoon saivat;
+ja h‰n pani p‰‰h‰ni, ett‰ mun varmint' ois
+lipas tallettaa h‰nen taakseen, luotani pois,
+muka ett‰ sill‰ varjolla kielt‰‰ voisin,
+jos milloin tultaisiin mua tutkimaan,
+ja tunnolla turvallisella vannoa toisin,
+kuin asia oikealt' oli laidaltaan.
+
+CL…ANTE.
+Paha juttu teille, p‰‰lt‰ jo n‰hd‰ voi sen:
+varat, salaisuudet vallassa miehen moisen!
+V‰h‰n siin‰ -- se on minun ajatukseni avoin --
+te harkitsitte, kun teittekin tuolla tavoin.
+H‰n voi nyt tehd‰ teille temppua monta.
+Ja noin kun kaikk' edut ensin h‰n teilt‰ voittaa,
+h‰nt' ‰rsytt‰‰ on varsin varomatonta;
+paras sovinnon tiet‰ vain nyt selvit‰ koittaa.
+
+ORGON.
+Niin hurskas, niin pyh‰n pyh‰‰ intoa n‰ytti,
+ja niin syd‰n h‰ijy, niin viekkaus mielen t‰ytti!
+Ja min‰ sen viheli‰isen kun mieron tielt‰...
+ei, mult' ei en‰‰ ne hurskaat hullitse mielt‰;
+varon vast'edes heit‰ kuin ruttoa tarttuvaista
+ja olen heille pahempi paholaista.
+
+CL…ANTE.
+Kas, siin' on taas tuo ainainen liioittelunne!
+Te ette miss‰‰n mielt‰nne malttaa tunne,
+on kohtuus teille outoa, ilman rajaa
+ain' aatos hillittˆmyydest‰ toiseen ajaa.
+Nyt huomaatte, vihdoin erhetyksenne n‰hden,
+miten teit‰ tuo tekohurskas nen‰st‰ veti.
+Mut jos sen mielitte korjata, mink‰ t‰hden
+uus erhetys ja suurempi tehd‰ heti,
+samaks syd‰melt‰‰n katsoa katala konna
+ja se, joka el‰‰ hurskaana, nuhteetonna?
+Jos julkea veijari hurskaaksi naamaa v‰‰nt‰in
+saa teid‰t uskomaan sit‰, silm‰nne k‰‰nt‰in,
+h‰nen kanssaan kaikkiko muut ovat yht‰ maata,
+tosihurskast' en‰‰ ei muka olla saata?
+Ei, saakoot uskonkielt‰j‰t v‰itt‰‰ moista,
+hyve toist' on ja hyveen varjo, se tietk‰‰, toista.
+Ylen varhain kiitt‰m‰st‰ te pid‰tt‰yk‰‰
+ja keskitiet‰ hairahtumatta k‰yk‰‰.
+Teilt' ‰lkˆˆn saako arvoa teeskely kurja,
+mut ‰lk‰‰ myˆs tosihurskaille olko nurja;
+jos sittenkin eksytte liioitteluihin mennen,
+niin liian hyv‰‰ huonoista luulkaa ennen.
+
+
+Toinen kohtaus.
+
+    Orgon, ClÈante, Damis.
+
+DAMIS.
+Is‰, onko se totta, uhkaako teit‰ se konna,
+hyv‰t tyˆt kaikk' unhottaako h‰n tunnotonna;
+oman hyvyytennekˆ aseeksi teit‰ vastaan
+se julkea k‰‰nt‰‰, haastaen jumalastaan?
+
+ORGON.
+Niin, poikani, niin; se mielt‰ni polttaa ja kaivaa.
+
+DAMIS.
+Min‰ menen ja korvat koiralta silt‰ leikkaan,
+h‰nen rˆyhkeytt‰ns‰ vastaan ma ryhdyn veikkaan;
+h‰n teit' ei kauan, sen sanon, en‰‰ vaivaa;
+min‰ nujerran h‰net, miss‰ h‰n tielleni osuu.
+
+CL…ANTE.
+Noin juuri nuoret poikaset puhuu ja hosuu.
+Mut hillitk‰‰h‰n mielenne intoa v‰h‰n.
+Ei kelpaa t‰ss‰ maassa ja aikaan t‰h‰n
+v‰kivalta keinoksi, ellei selvit‰ muulla.
+
+
+Kolmas kohtaus.
+
+    Rouva Pernelle, Orgon, Elmire, ClÈante, Mariane, Damis, Dorine.
+
+ROUVA PERNELLE.
+Mit‰ hirmujuttuja saan min‰ t‰‰ll‰ kuulla?
+
+ORGON.
+Ne on juttuja, jotk' omin silmin ma itse n‰in.
+On yst‰vyyteni palkittu kukkurap‰in.
+Min‰ mierontielt' otan ihmisen oloon oivaan,
+kuin omaa velje‰ luonani vaalin ja hoivaan,
+teen p‰iv‰t p‰‰st‰‰n pelkk‰‰ yst‰v‰ntyˆt‰,
+suon tytt‰ren h‰lle ja omaisuuteni myˆt‰,
+ja kostoks sen tuo veijari, tuo velikulta
+sill' aikaa mielii vietell‰ vaimon multa!
+Ja viel' ei riit‰ se julkeus; mulle paulan
+h‰n hyvyydest‰ni punoo ymp‰ri kaulan
+ja h‰viˆkseni k‰ytt‰‰ jok' asianhaaraa,
+joll' asestin h‰net aavistamatta vaaraa,
+minut paljaaksi riist‰‰, ja palkaksi hyv‰st‰ tyˆst‰
+alas sinne, mist' autoin pois h‰net, uhkaa syˆst‰.
+
+DORINE.
+Mies parka!
+
+ROUVA PERNELLE.
+            Niin musta, niin ilke‰ aikomusko
+ois ollut h‰ll‰! Sit‰ en ikin‰ usko.
+
+ORGON.
+Mit‰?
+
+ROUVA PERNELLE.
+      Kateus aina on hurskasten kintereill‰.
+
+ORGON.
+Mik' on oikein, ‰iti, nyt tarkoituksena teill‰?
+
+ROUVA PERNELLE.
+Ett' outo on meno t‰‰ll‰; sen kaikki tiet‰‰,
+miten saa h‰n luonanne vihaa ja pilkkaa siet‰‰.
+
+ORGON.
+Mit‰ tekemist‰ t‰ss‰ on vihalla tuolla?
+
+ROUVA PERNELLE.
+En ensi kertaa nyt sit‰ mielees paina;
+hyve maailmassa vainoa k‰rsii aina.
+Niin, kateet kuolevat, kateus ei voi kuolla.
+
+ORGON.
+Mit‰ kuuluu nyt t‰h‰n mokomat sananlaskut?
+
+ROUVA PERNELLE.
+H‰nest' uskoteltu on teille jos jotkin kaskut.
+
+ORGON.
+Mut sanoinhan jo, ett' itse ma kaikki n‰in.
+
+ROUVA PERNELLE.
+Ei rajaa herjuulla ihmisten ilke‰in!
+
+ORGON.
+Oh, kiroonko ihan! Sanoin ja vakuutinhan,
+ett' itse ma eljet n‰in sen ilkiˆn inhan.
+
+ROUVA PERNELLE.
+On parjaajalla myrkky‰ kielen p‰‰ll‰;
+silt' itse‰‰n ei varjele kukaan t‰‰ll‰.
+
+ORGON.
+En kuullut puhetta noin ole tolkutonta.
+N‰in itse sen, n‰in, jos on n‰hty ikin‰ mik‰‰n,
+omin silmin n‰in. Se kertaa niin kuinka monta
+on hokea tarvis ja huutaa kuin kuurolle ik‰‰n?
+
+ROUVA PERNELLE.
+Hyv‰ Jumala, n‰kˆh‰n pett‰‰ voi t‰m‰n t‰st‰;
+ain' ei pid‰ tuomita pelk‰st‰ n‰kem‰st‰.
+
+ORGON.
+Min‰ raivostun.
+
+ROUVA PERNELLE.
+                Pian ihminen eksyy harhaan;
+ep‰luulo usein pahaksi maalaa parhaan.
+
+ORGON.
+Siis kristillist‰kˆ rakkautt' on se vaan,
+jos vaimoani h‰n pyrkii halailemaan!
+
+ROUVA PERNELLE.
+On tarpeen n‰ytteet, syytˆs ei yksin riit‰.
+Ois ensin varmuus pit‰nyt hankkia siit‰.
+
+ORGON.
+Mik‰ perhanan varmuus viel‰ puuttua vois?
+Siis pitikˆ vartoa, silm‰ini eess' ett' ois...
+Ihan tˆrkeit‰ suuhuni tuotte jo kohta sill‰‰n.
+
+ROUVA PERNELLE.
+Niin, liian puhdas h‰ll‰ on into ja kiivaus;
+ja sit‰ en mieleeni voi min‰ saada mill‰‰n,
+ett' oisi vallannut h‰net moinen riivaus.
+
+ORGON.
+Jos ette ‰itini oisi, en en‰‰ tied‰,
+mit‰ virkkamaan t‰m‰ ‰rsytys voi minut vied‰.
+
+DORINE (Orgonille).
+Saa t‰‰ll‰ verran verrasta, katsokaas:
+muit' ette uskonut, muut nyt ei teit‰ taas.
+
+CL…ANTE.
+Me joutavaan ajan kalliin annamme juosta,
+nyt mietti‰ saa, miten selvit‰ miehest‰ tuosta.
+H‰nen vehkeilless‰‰n ei ole aika maata.
+
+DAMIS.
+Niin pitk‰lle sent‰‰n se konna ei menn‰ saata.
+
+ELMIRE.
+Min‰ uskon, ettei h‰n uhkailujansa t‰yt‰,
+ep‰kiitollisuuttaan niin h‰n ei julki n‰yt‰.
+
+CL…ANTE (Orgonille).
+V‰h‰n takeita siit‰. H‰n osaa asian v‰‰nt‰‰
+ja pyyteens‰ pyh‰ksi oikeudeksi k‰‰nt‰‰.
+Voi v‰hemm‰st‰kin heittiˆ moinen kostaa
+ja niskoillenne ilke‰n rettelˆn nostaa.
+Sanon viel‰kin: kun h‰nen keinonsa kerran ties,
+ois pit‰nyt j‰tt‰‰ suututtamatta se mies.
+
+ORGON.
+Niin ois; mut en voinut mielt‰ni hillit‰ mill‰‰n,
+sen kataluuden kun n‰in min‰ rˆyhkeimmill‰‰n.
+
+CL…ANTE.
+Paras on nyt teille, jos ei v‰lit riitaan lopu,
+vaan viel‰ solmiutuu jokin varjosopu.
+
+ELMIRE.
+Jos tiesin, ett' uhata saatti h‰n asein moisin,
+koko riidan aiheuttamatta ma ollut oisin,
+en...
+
+ORGON (Dorinelle n‰hdess‰‰n Loyalin tulevan).
+      Kysyk‰‰, ken on tuo, mit‰ varten t‰‰ll‰.
+T‰h‰n vieraita viel‰! Olenkin sill‰ p‰‰ll‰!
+
+
+Nelj‰s kohtaus.
+
+    Orgon, Rouva Pernelle, Elmire, Mariane,
+    ClÈante, Damis, Dorine, Loyal.
+
+LOYAL (Dorinelle n‰ytt‰mˆn per‰ll‰).
+Rakas lapseni, hyv‰‰ p‰iv‰‰; mull onni oisko
+talon herraa tavata?
+
+DORINE.
+                     Niin, sit' en tied‰, voisko
+nyt juuri h‰n ottaa vastaan; on seuraa siell‰.
+
+LOYAL.
+Min‰ h‰nt' en mill‰‰n h‰iritse enk' ole tiell‰,
+en mit‰‰n haittaa tee h‰nen seurustelulleen,
+sanan h‰lle tuon vain hauskan ja tervetulleen.
+
+DORINE.
+Kenet ilmoitan siis?
+
+LOYAL.
+                     Vain, ett‰ on toimena mulla
+sana t‰rke‰ herra Tartuffelt‰ tuomaan tulla.
+
+DORINE (Orgonille).
+Kovin kohteliaasti h‰n puheille-p‰‰sy‰ anoo,
+sanan tuovansa herra Tartuffelt‰ teille sanoo
+hyvin tervetulleen.
+
+CL…ANTE (Orgonille).
+                    On n‰ht‰v‰, mik‰ se mies
+on miehi‰‰n ja mit‰ h‰n tahtoo ja halaa.
+
+ORGON (ClÈantelle).
+H‰n tullut on riitaa sovittamaan kenties.
+Miten kohtelen h‰nt‰, mit' osoitan mielialaa?
+
+CL…ANTE (Orgonille).
+Niin, teid‰n ei pid‰ vihaanne ilmi tuoda,
+vaan sovinnosta jos puhuu, kuuloa suoda.
+
+LOYAL (Orgonille).
+Jalo herra, taivas kadehtijanne kaatkoon
+ja, niinkuin toivotan, armonsa teille taatkoon!
+
+ORGON (hiljaa ClÈantelle).
+Tuo leppe‰ alku on luuloni mukaan ihan,
+se on selv‰ sovinnon viittaus eik‰ vihan.
+
+LOYAL.
+Miten rakkaan muiston talosta t‰st‰ sainkaan!
+Min‰ t‰‰ll‰ herra is‰‰nne palvelin ennen.
+
+ORGON.
+Anon h‰veten anteeksi, ett‰ en vuotten mennen
+min‰ tunne teit‰, en nime‰ muista lainkaan.
+
+LOYAL.
+Olen Loyal, Normandiasta syntyperin,
+jo nelj‰kymment‰ vuott' olen v‰hin erin
+ulosottomiehen‰ toiminut kunnialla
+ja kateudelle kiusaksi, kiitos taivaan;
+ja nyt, jos suvaitsette, niin teit‰ vaivaan
+ma kuulemaan lain p‰‰tˆksen, jonka alla...
+
+ORGON.
+Te tulette siis...?
+
+LOYAL.
+                    Niin, herra, ei kiihtymyst‰!
+Mull' on vain toimena, totellen m‰‰r‰yst‰,
+pois teid‰t ynn‰ perheenne t‰‰lt‰ h‰‰t‰‰,
+ulos kamppeenne siirt‰‰ ja tehd‰ toisille tilaa
+nyt viipym‰tt‰, kuin laki lausuu ja s‰‰t‰‰.
+
+ORGON.
+Minut ulosko?
+
+LOYAL.
+              Niin, rakas herra, se ei ole pilaa.
+Talo on -- kuten muuten teill‰ on tieto parain --
+nyt herra Tartuffen, -- ei voi sit‰ kielt‰‰ kukaan.
+H‰n t‰‰ll' on nyt valtias omaisuuden ja varain
+mun haltuuni annetun lahjoituskirjan mukaan;
+se on laillinen, vahvistettu, ei mit‰‰n vajaa.
+
+DAMIS (Loyalille).
+Ei todellakaan ole julkeudellanne rajaa.
+
+LOYAL (Damis'lle).
+Ei koske teit‰, herra, vaan herraa t‰t‰
+    (osoittaen Orgonia)
+mun toimeni; h‰n ei mielt', ei malttia j‰t‰,
+vaan oivaltaa, ettei sovi kunnon miehen
+lain k‰sky‰ vastaan k‰‰nty‰ poikkitiehen.
+
+ORGON.
+Mut...
+
+LOYAL.
+       Kapinoimaan teit‰ -- ei miljoonatkaan,
+min‰ tied‰n sen, toki vois sit‰ saattaa matkaan.
+Te kelpo mies, mielt' ette te nurjaa kanna,
+vaan saamani k‰skyt suotte mun toimeen panna.
+
+DAMIS.
+Mut, herra ryˆstˆmies, v‰h‰n ettekˆ pelk‰‰
+kepin voivan sivell‰ mustan mekkonne selk‰‰?
+
+LOYAL (Orgonille).
+Vait k‰skek‰‰ h‰nen olla tai k‰yd‰ pois.
+Minun muuten pakko toimituskirjaan ois
+t‰m‰ h‰iriˆ merkit‰, poikanne aikaansaama.
+
+DORINE (syrj‰‰n).
+Tuo herra Loyal on oikea luikurinnaama.
+
+LOYAL.
+Tosihurskaihin niin mull' on kiintymys suuri,
+ja toimittaakseni t‰‰n otin siksi juuri,
+ett' avuksi teille ja palvelukseksi oisin
+ja joutumasta sen jollekin est‰‰ voisin,
+joka teille ei ehk' olis yst‰v‰ yht‰ l‰mmin,
+vaan t‰ytt‰m‰‰n k‰vis toimensa tˆyke‰mmin.
+
+ORGON.
+Mit‰ viel' ois pahempaa kuin ihmiset tyˆnt‰‰
+ulos kodistaan?
+
+LOYAL.
+                Min‰ aionkin aikaa myˆnt‰‰:
+saa viel‰ huomiseen t‰m‰ toimitus j‰‰d‰,
+sit‰ ennen t‰‰lt' en pois min‰ teit‰ h‰‰d‰;
+olen lainkaan vaivaamatta vain t‰‰ll‰ yˆt‰,
+min‰ itse ja kymmenen k‰skyl‰ist‰ni myˆt‰.
+Talon avaimet maata menness‰ mulle tuokaa,
+se muotoseikka mun mieleenne painaa suokaa.
+Min‰ valvon, ettei rauhaanne h‰iritse kukaan,
+omin valloin ei ole, vaan ihan ohjeen mukaan.
+Mut aamulla k‰ytt‰‰ tarvis on nopsaa k‰tt‰,
+pois kilunne, kalunne raivata viipym‰tt‰;
+teit' auttamaan olen ottanut miehet roimat,
+ne kantaa kaikk' ulos, ei v‰sy kesken voimat.
+T‰m‰ tunnollisemmin tehdyksi ei voi tulla;
+ja n‰in kun on altis ja auttava mieli mulla,
+niin pyyd‰n myˆs, ett' oikein se arvioitais,
+mua vastaan virkani tyˆss‰ ei vikuroitais.
+
+ORGON (syrj‰‰n).
+Ilomiell‰ viimeisist‰ni sill‰ er‰‰
+louisdoria sata pois min‰ luovuttaisin,
+jos vasten turpaa tuota nyt iske‰ saisin
+vain haluni takaa nyrkill‰ t‰ytt‰ ter‰‰.
+
+CL…ANTE (hiljaa Orgonille).
+Nyt ei pid‰ asiaa pilata.
+
+DAMIS.
+                          Pieks‰m‰tt‰
+tuo rakkari j‰iskˆ? T‰‰ ihan polttaa k‰tt‰.
+
+DORINE.
+Noin pulskaa selk‰‰, herra Loyal, ei haittais,
+jos tanssimaan sen t‰‰ kepin oivan laittais.
+
+LOYAL.
+Voi rangaistukseen julkeus moinen johtaa;
+hyv‰ neito, naisiakin lain koura kohtaa.
+
+CL…ANTE.
+T‰m‰ riitt‰‰ jo, lopettakaamme; se paperi t‰nne,
+ja sitten menn‰ saatte te mielell‰nne.
+
+LOYAL.
+Siis n‰kemiin. Ilo teille ja armo taivaan!
+
+ORGON.
+Sinut syˆskˆˆn ja l‰hett‰j‰skin se hornan vaivaan!
+
+
+Viides kohtaus.
+
+    Orgon, Rouva Pernelle, Elmire,
+    ClÈante, Mariane, Damis, Dorine.
+
+ORGON.
+Siin', ‰iti, n‰ette, oliko puheeni v‰‰r‰‰;
+t‰m‰n nojalla voitte p‰‰tell‰ kaikesta muusta.
+Joko oivallatte, mit‰ h‰n oikein h‰‰r‰‰?
+
+ROUVA PERNELLE.
+Min‰ tyrmistyn, olen ihan kuin pudonnut puusta.
+
+DORINE (Orgonille).
+H‰nt' ette oikeudella te syyt‰ ja soimaa;
+h‰nen hurskasta intoaanhan se ilmaisee,
+h‰nen alttiin ihmisrakkautensa voimaa:
+h‰n tiet‰‰, ett' usein rikkaus turmelee,
+ja sulasta laupeudesta h‰n teilt‰ pois
+vie kaiken, mik' autuudellenne esteeks ois.
+
+ORGON.
+Vait! Teille sen sanoa saa yh‰, myˆh‰‰n ja varhain.
+
+CL…ANTE (Orgonille).
+Nyt miettik‰‰mme, mik' ois apu t‰ss‰ parhain.
+
+ELMIRE.
+Tuo ilkeys tuokaa ilmi nyt kaikkien tiet‰‰.
+On ihme, jos ei tee tyhj‰ks se lahjoitusta;
+se vilppi ja viekkaus on toki liian musta,
+ett' aikeen moisen t‰yttyv‰n voitais siet‰‰.
+
+
+Kuudes kohtaus.
+
+    ValËre, Orgon, Rouva Pernelle, Elmire,
+    ClÈante, Mariane, Damis, Dorine.
+
+VAL»RE.
+Paha uutinen on minun pakko nyt tuomaan tulla,
+mut vaara uhkaa, ei muut ole neuvoa mulla.
+Er‰s yst‰v‰, jonka vertaisia on v‰h‰n
+ja jolle on tuttu mun suhteeni taloon t‰h‰n,
+mun t‰hteni rikkoi sen vakaan vait'olon, jolla
+tulis aina valtio-asian varjeltu olla,
+soi tiet‰‰ seikkoja, jotka nyt vaatii teit‰
+heti pakenemaan, ei turvaksi muuta heit‰.
+Se konna, jot' uskoitte niin kovin kauan, on kantaa
+nyt hovissa p‰‰llenne juljennut juuri ik‰‰n
+ja hallitsijalle jonkin lippaanne antaa,
+johon liittyy valtiorikos, ei v‰hempi mik‰‰n,
+ja jota te vastoin velvollisuutta ja valaa
+muka, sanoo h‰n, tallettanut t‰‰ll' olette salaa.
+En syytett‰ tarkemmin tunne, sen ainoastaan,
+ett' on jo annettu m‰‰r‰ys teit‰ vastaan,
+ja valvomaan sen toimeenpanoa t‰nne
+h‰n itse saapua saa kera pid‰tt‰j‰nne.
+
+CL…ANTE.
+Nyt rosvoll' on t‰ydet aseet, joilla h‰n koittaa
+teilt' omaisuuden vied‰ ja omaksi voittaa.
+
+ORGON.
+Mik‰ ilkipeto se ihminen oikein onkaan!
+
+VAL»RE.
+On myˆh‰ist‰ kaikki, jos viivytte tuokionkaan.
+Toin myˆt‰ni vaunut, ne portill' on vartomassa;
+n‰‰ tuhat louisdoria t‰ss‰ on matkakassa.
+Nyt ‰lk‰‰mme aikailko, viel‰ kun tie on vapaa,
+vaan paetkaamme, ennenkuin isku tapaa.
+Min‰ varmaan paikkaan t‰‰lt‰ nyt teid‰t vien
+ja saatan teit‰, jos sallitte, kaiken tien.
+
+ORGON.
+Ah, mill‰ jos ansainnut min‰ apunne oisin!
+T‰m‰n saatan palkita vasta, kun aika on toisin.
+Mun taivas suokoon viel‰ sen verran jaksaa,
+ett' ylevyytenne voin min‰ kerran maksaa.
+Hyvin j‰‰k‰‰ te muut, j‰t‰n huostaanne...
+
+CL…ANTE.
+                                          Rient‰k‰‰!
+Se hoidetaan, mik‰ huoleksi meille j‰‰.
+
+
+Seitsem‰s kohtaus.
+
+    Tartuffe, Oikeudenpalvelija, Rouva Pernelle, Orgon,
+    Elmire, ClÈante, Mariane, ValËre, Damis, Dorine.
+
+TARTUFFE (pys‰hdytt‰en Orgonin).
+Seis, herra, seis! Mihin juoksette? Asuinsijan
+ihan l‰helt‰ saatte, ehditte perille pian.
+Lain nimess‰ olette vangiksi julistettu.
+
+ORGON.
+Vai senkˆ viimeiseks sin‰ s‰‰stit, kettu?
+Vai n‰in minut aiot, rosvo, sa tielt‰ poistaa?
+T‰m‰ kaiken kataluutesi kruununa loistaa.
+
+TARTUFFE.
+Niin, herjatkaa vain rauhassa minusta n‰hden,
+kaikk' altis k‰rsim‰‰n olen taivaan t‰hden.
+
+CL…ANTE.
+Oh, onpa tottakin suuri se mielenmaltti!
+
+DAMIS.
+Miten taivas on aina sen ilkiˆn iskuvaltti!
+
+TARTUFFE.
+Ei koske minuun, mit‰ te syyd‰tte suusta,
+teen velvollisuuteni, huoli en mist‰‰n muusta.
+
+MARIANE.
+Ja siit‰ teille kunnia koituu suuri;
+on kelpo tyˆ t‰m‰ teht‰v‰ teille juuri.
+
+TARTUFFE.
+Niin, kunniakas voi teht‰v‰ olla vain
+sen vallan suomana, jolta sen toimeks sain.
+
+ORGON.
+Sit‰ muistatko, ken sinut kurjuudestasi nosti?
+Siis apuni armeliaan t‰m‰ kiitos kosti!
+
+TARTUFFE.
+En suinkaan unohtanut ole auttajaani,
+mut korkeinta mulle on palvelu ruhtinaani.
+Se velvoitus pyh‰, ankara tulee muistaa
+ja syd‰men kiitollisuuskin sen alle suistaa;
+kaikk' uhraisin, mit‰ vaatis se uhrityˆt‰,
+min‰ yst‰v‰t, puolison, vanhemmat, itseni myˆt‰.
+
+ELMIRE.
+Mik‰ veijari!
+
+DORINE.
+              Kuinka h‰n itsens‰ verhota koittaa
+ihan kaikella sill‰, mit' ihmiset kunnioittaa!
+
+CL…ANTE.
+Mut jos nyt on into tuo, joka teit‰ ajaa
+ja johon te verhoudutte, niin ilman rajaa,
+mit‰ varten, kuulkaas, se ilmeni sitten vasta,
+kun teid‰t h‰n yll‰tti rouvaansa vaanimasta,
+miks sitten vasta se ilmiantoja laati,
+kun teid‰t h‰n ajoi pois, kuten kunnia vaati?
+En siks sano, ett' ois teid‰n luovuttavanne
+tuost' omaisuudesta pois, h‰nen lahjoittamastaan,
+mut kuinka voitte h‰lt' ottaa lahjoja vastaan,
+h‰nen varalleen jos teill' oli raskas kanne?
+
+TARTUFFE (oikeudenpalvelijalle).
+Minut turvatkaa nyt s‰ttimiselt‰ tuolta
+ja olkaa hyv‰ ja tehk‰‰ toimenne pikaa.
+
+OIKEUDENPALVELIJA.
+On tosiaan jo viivytys tehnyt vikaa;
+kuten huomautitte, siit' aika on pit‰‰ huolta;
+siis seuratkaa mua ilman viivykkeit‰;
+vien teid‰t vankeuteen, joka vartoo teit‰.
+
+TARTUFFE.
+Kuka? Min‰kˆ?
+
+OIKEUDENPALVELIJA.
+              Juuri te.
+
+TARTUFFE.
+                        Miksik‰ vankeuteen?
+
+OIKEUDENPALVELIJA.
+Min‰ teille en, vaan toisille tili‰ teen.
+    (Orgonille.)
+Nyt huojetkoon t‰m‰ huolenne painajainen.
+On meill‰ ruhtinas vilppi‰ vihaavainen,
+h‰nen silm‰ns‰ n‰kee syd‰nten sisimp‰‰n,
+sit‰ teeskelyn temput pysty ei pett‰m‰‰n.
+H‰nen suuren henkens‰ huomio herkk‰ voipi
+kaikk' oivaltaa, kaikk' oikein se arvioipi,
+silt' yll‰tt‰m‰ll‰ ei voiteta menestyst‰,
+ei liioittelut sen eksyt‰ ymm‰rryst‰.
+H‰n kunnon palkitsee iki-kunnialla,
+sit‰ suosii, mutta ei innolla sokealla,
+syd‰n hyville armias ei h‰nen rinnastaan
+sit‰ vihaa est‰, joka on v‰‰r‰in pelko.
+H‰nt' ‰lkˆˆt pett‰‰ tuollaiset tuumitelko;
+pani turhaan kavalammatkin paulojaan.
+H‰nen katseelleen heti kuulsi se kaikki julki,
+niit‰ syd‰meens‰ h‰n konnanjuonia sulki.
+Toi ilmiantaja itsens‰ ilmi juuri --
+niin ohjaa oikeuden ikivalpas valta --
+ja h‰nest‰ paljastui pahantekij‰ suuri
+ja tuttu vanhastaan, nimen uuden alta.
+H‰nen ilkityˆns‰ kaikki jos kirjaan pantais,
+monet kirjant‰ydet se kirjoittamista antais.
+Niin, sanalla sanoin, valtias kohta keksi
+sen vilpin, mi teille h‰ll' oli kiitokseksi;
+lis‰n siit‰ saa h‰nen syittens‰ synkk‰ taakka;
+ja t‰nne mun todistamaan piti tulla vain,
+kuink' ilkeytens‰ h‰n vie ihan huippuun saakka,
+sill' itse viattomuutenne ilmoittain,
+nuo paperit, jotka se veijari teilt' on saanut,
+h‰lt' ottaa pois ja ne saapua teille tuomaan.
+Esivallan mahti ne kumonnut on ja taannut
+taas kaikki oikean omistajansa huomaan.
+Myˆs anteeksi antaa hallitsijamme halaa,
+mit‰ yst‰v‰n t‰hden olette rikkonut salaa,
+siten palkitsee sen innon, jot' ilmaisitte,
+h‰nen oikeuttaan kun ammoin te puolustitte,
+ja n‰ytt‰‰, ett‰ h‰lt' oikean arvon saa
+teko oiva, kun sit‰ v‰himmin odottaa,
+ett' osaa palkan panna h‰n ansion myˆt‰
+ja kauemmin hyv‰‰ muistaa kuin pahaa tyˆt‰.
+
+DORINE.
+Oh, Herran kiitos!
+
+ROUVA PERNELLE.
+                   Nyt min‰ hengit‰n j‰lleen.
+
+ELMIRE.
+Mik‰ suuri onni!
+
+MARIANE.
+                 Sen kuinka uskoa voin!
+
+ORGON (Tartuffelle, jonka oikeudenpalvelija vie pois).
+ƒh‰h, saitkos, veijari...
+
+
+Kahdeksas kohtaus.
+
+    Orgon, Rouva Pernelle, Elmire, Mariane,
+    ClÈante, ValËre, Damis, Dorine.
+
+CL…ANTE.
+                          Ei, veli, ‰lk‰‰ noin
+te vaipuko ilkuntaan h‰nen h‰pe‰lleen.
+H‰net j‰tt‰k‰‰ kovan onnensa kouriin, lanko,
+mut ‰lk‰‰ soimaten kive‰ kuormalle panko.
+Rukoelkaa ennen h‰lle te uutta mielt‰,
+ett' el‰m‰ns‰ h‰n korjais ja paheen tielt‰
+jo t‰n‰‰n katuvaisena k‰‰ntyis pois,
+ja valtias suuri h‰lle viel' armon sois.
+Mut itse menk‰‰ ja kiitosta polvillanne
+te h‰lle tuokaa armosta saamastanne.
+
+ORGON.
+Niin, oikein, niin! H‰nen eteens‰ langetkaamme
+h‰nt' ylist‰m‰‰n h‰nen suuresta armostaan.
+Se on ensi velvollisuutemme, sitten saamme
+heti toisen muistaa, ryhty‰ hankkimaan
+h‰‰t armaat, niin ValËrea palkita, ylk‰‰,
+jok' ylev‰ on eik' yst‰vi‰ns‰ hylk‰‰.
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK TARTUFFE***
+
+
+******* This file should be named 52807-8.txt or 52807-8.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/5/2/8/0/52807
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org 
+
+Section 3. Information about the Project Gutenberg Literary 
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
